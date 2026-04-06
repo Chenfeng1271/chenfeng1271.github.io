@@ -15,9 +15,9 @@ Hi 👋, I am a final-year Ph.D. candidate  at the University of Adelaide, super
 
 My research focuses on developing **efficient and scalable AI algorithms** for multimodal learning and image generation. Previously, I have worked on the following topics:
 
-- **Efficient MLLMs across inference, training, and post-training**, including  [ZipVL](https://arxiv.org/abs/2410.08584), [OmniSparse](https://arxiv.org/abs/2511.12201), and [Sparsity Forcing](https://arxiv.org/abs/2504.18579).
+- **Efficient MLLMs** across inference, training, and post-training, including  [ZipVL](https://arxiv.org/abs/2410.08584), [OmniSparse](https://arxiv.org/abs/2511.12201), and [Sparsity Forcing](https://arxiv.org/abs/2504.18579).
 
-- **Efficient autoregressive image generation**, including [ZipAR](https://arxiv.org/abs/2412.04062) and [NAR](https://arxiv.org/abs/2503.10696).
+- **Efficient Autoregressive Image Generation**, including [ZipAR](https://arxiv.org/abs/2412.04062) and [NAR](https://arxiv.org/abs/2503.10696).
 
 Currently, my research focuses on **embodied learning**, with two main directions:
 
@@ -36,29 +36,7 @@ Work Experience
 Selected Publications
 ------
 
-<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px; background:#f0f0f0; min-height:100px; display:flex; align-items:center; justify-content:center; border-radius:4px;">
-    <span style="color:#aaa; font-size:12px;">Image coming soon</span>
-  </div>
-  <div>
-    <strong>LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models</strong><br>
-    Zicheng Duan, Jiatong Xia, Zeyu Zhang, Wenbo Zhang, Gengze Zhou, Chenhui Gou, Yefei He, <strong>Feng Chen</strong> (Project Lead), Xinyu Zhang, Lingqiao Liu<br>
-    <em>arXiv preprint, 2026</em><br>
-    [<a href="https://arxiv.org/abs/2603.07145">Paper</a>]
-  </div>
-</div>
-
-<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="/images/paper/chain_of_event.png" style="width:100%; border-radius:4px;">
-  </div>
-  <div>
-    <strong>Chain of Event-Centric Causal Thought for Physically Plausible Video Generation</strong><br>
-    Zixuan Wang<sup>*</sup>, Yixin Hu<sup>*</sup>, Haolan Wang, <strong>Feng Chen</strong><sup>*</sup>, Yan Liu, Wen Li, Yinjie Lei &nbsp;(<sup>*</sup>Equal contribution)<br>
-    <em>CVPR, 2026</em><br>
-    [<a href="https://arxiv.org/abs/2603.09094">Paper</a>]
-  </div>
-</div>
+**Efficient MLLM**
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
@@ -81,6 +59,44 @@ Selected Publications
     <strong>Feng Chen</strong>, Yefei He, Shaoxuan He, Yuanyu He, Jing Liu, Lequan Lin, Akide Liu, Zhaoyang Li, Jiyuan Zhang, Zhenbang Sun, Bohan Zhuang, Qi Wu<br>
     <em>AAAI, 2026</em><br>
     [<a href="https://arxiv.org/abs/2511.12201">Paper</a>]
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
+  <div style="flex-shrink:0; width:180px; margin-right:16px;">
+    <img src="/images/paper/zipvl.png" style="width:100%; border-radius:4px;">
+  </div>
+  <div>
+    <strong>ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification</strong><br>
+    Yefei He, <strong>Feng Chen</strong>, Jing Liu, Wenqi Shao, Hong Zhou, Kaipeng Zhang, Bohan Zhuang<br>
+    <em>ICCV, 2025</em><br>
+    [<a href="https://arxiv.org/abs/2410.08584">Paper</a>]
+  </div>
+</div>
+
+**Efficient and Controllable World Model**
+
+<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
+  <div style="flex-shrink:0; width:180px; margin-right:16px;">
+    <img src="/images/paper/liveworld.png" style="width:100%; border-radius:4px;">
+  </div>
+  <div>
+    <strong>LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models</strong><br>
+    Zicheng Duan, Jiatong Xia, Zeyu Zhang, Wenbo Zhang, Gengze Zhou, Chenhui Gou, Yefei He, <strong>Feng Chen</strong> (Project Lead), Xinyu Zhang, Lingqiao Liu<br>
+    <em>arXiv preprint, 2026</em><br>
+    [<a href="https://arxiv.org/abs/2603.07145">Paper</a>]
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
+  <div style="flex-shrink:0; width:180px; margin-right:16px;">
+    <img src="/images/paper/chain_of_event.png" style="width:100%; border-radius:4px;">
+  </div>
+  <div>
+    <strong>Chain of Event-Centric Causal Thought for Physically Plausible Video Generation</strong><br>
+    Zixuan Wang<sup>*</sup>, Yixin Hu<sup>*</sup>, Haolan Wang, <strong>Feng Chen</strong><sup>*</sup>, Yan Liu, Wen Li, Yinjie Lei &nbsp;(<sup>*</sup>Equal contribution)<br>
+    <em>CVPR, 2026</em><br>
+    [<a href="https://arxiv.org/abs/2603.09094">Paper</a>]
   </div>
 </div>
 
@@ -110,13 +126,29 @@ Selected Publications
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="/images/paper/zipvl.png" style="width:100%; border-radius:4px;">
+    <img src="/images/paper/modular.png" style="width:100%; border-radius:4px;">
   </div>
   <div>
-    <strong>ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification</strong><br>
-    Yefei He, <strong>Feng Chen</strong>, Jing Liu, Wenqi Shao, Hong Zhou, Kaipeng Zhang, Bohan Zhuang<br>
-    <em>ICCV, 2025</em><br>
-    [<a href="https://arxiv.org/abs/2410.08584">Paper</a>]
+    <strong>Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis</strong><br>
+    Zixuan Wang, Duo Peng, <strong>Feng Chen</strong>, Yuwei Yang, Yinjie Lei<br>
+    <em>CVPR, 2025</em><br>
+    [<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Training-free_Dense-Aligned_Diffusion_Guidance_for_Modular_Conditional_Image_Synthesis_CVPR_2025_paper.pdf">Paper</a>]
+  </div>
+</div>
+
+**Others**
+
+
+
+<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
+  <div style="flex-shrink:0; width:180px; margin-right:16px;">
+    <img src="/images/paper/BGA-MNER.png" style="width:100%; border-radius:4px;">
+  </div>
+  <div>
+    <strong>Learning Implicit Entity-object Relations by Bidirectional Generative Alignment for Multimodal NER</strong><br>
+    <strong>Feng Chen</strong>, Jiajia Liu, Kaixiang Ji, Wang Ren, Jian Wang, Jingdong Wang<br>
+    <em>ACM MM, 2023</em><br>
+    [<a href="https://arxiv.org/abs/2308.02570">Paper</a>]
   </div>
 </div>
 
