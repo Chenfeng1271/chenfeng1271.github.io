@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/asuka.jpg"
+  avatar           : "asuka.jpg"
   name             : "Feng Chen (陈峰)"
   bio              : "3rd year Phd candidate at AIML"
   location         : "Adelaide, Australia"
