@@ -185,6 +185,18 @@ Selected Publications
 
 **Others**
 
+<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
+  <div style="flex-shrink:0; width:180px; margin-right:16px;">
+    <img src="/images/paper/UEN.png" style="width:100%; border-radius:4px;">
+  </div>
+  <div>
+    <strong>Uncertainty-guided Learning for Improving Image Manipulation Detection</strong><br>
+    Kaixiang Ji, <strong>Feng Chen</strong>, Xin Guo, Yadong Xu, Jian Wang, Jingdong Chen<br>
+    <em>ICCV, 2023</em><br>
+    [<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ji_Uncertainty-guided_Learning_for_Improving_Image_Manipulation_Detection_ICCV_2023_paper.pdf">Paper</a>]
+  </div>
+</div>
+
 
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
