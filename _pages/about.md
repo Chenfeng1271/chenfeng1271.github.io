@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+**I am actively looking for industry positions in MLLM pretraining, VLA, and related areas. Feel free to reach out via [email](mailto:chenfeng1271@gmail.com) if you are interested!**
+
 Hi 👋, I am a final-year Ph.D. candidate  at the University of Adelaide, supervised by
 [Prof. Bohan Zhuang](https://scholar.google.com.au/citations?user=DFuDBBwAAAAJ) and
 [Prof. Qi Wu](https://scholar.google.com/citations?user=aKXe1FEAAAAJ&hl=en).
@@ -21,7 +23,7 @@ Currently, my research focuses on **embodied learning**, with two main direction
 
 - **Efficient VLA**: improving *policy efficiency* by enabling VLA models to complete tasks with fewer action steps and over longer horizons, reducing redundant inference while maintaining robust task performance.
 
-- **Physical-aware World Models**: building world models with a *3D Gaussian-aware tokenizer* for spatially grounded scene representation, and designing benchmarks at the level of *physical formulas* to evaluate whether models truly understand physical laws. Related work: [LiveWorld](https://arxiv.org/abs/2603.07145).
+- **Physical-aware World Models**: building world models with a *3D Gaussian-aware tokenizer* for spatially grounded scene representation, and designing benchmarks at the level of *physical formulas* to evaluate whether models truly understand physical laws, towards [large-scale world simulation](https://arxiv.org/abs/2603.07145).
 
 
 
