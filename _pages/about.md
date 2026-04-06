@@ -92,7 +92,7 @@ Selected Publications
   <div>
     <strong>Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention</strong><br>
     Zhen Yang, Mingyang Zhang, <strong>Feng Chen</strong>, Ganggui Ding, Liang Hou, Xin Tao, Ying-Cong Chen<br>
-    <em>arXiv preprint, 2025</em><br>
+    <em>ACL, 2026</em><br>
     [<a href="https://arxiv.org/abs/2510.13940">Paper</a>]
   </div>
 </div>
