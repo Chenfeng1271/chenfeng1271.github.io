@@ -26,6 +26,12 @@ Currently, my research focuses on **embodied learning**, with two main direction
 - **Physical-aware World Models**: building world models with a *3D Gaussian-aware tokenizer* for spatially grounded scene representation, and designing benchmarks at the level of *physical formulas* to evaluate whether models truly understand physical laws, towards [large-scale world simulation](https://arxiv.org/abs/2603.07145).
 
 
+News
+------
+- **[2026.04]** 🎉 2 papers accepted to **ACL 2026**.
+- **[2026.03]** 🎉 4 papers accepted to **CVPR 2026**.
+
+
 
 Work Experience
 ------
