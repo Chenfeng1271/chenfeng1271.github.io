@@ -17,7 +17,7 @@ My research focuses on developing **efficient and scalable AI algorithms** for m
 
 - **Long Context Efficiency of MLLMs** across inference, training, and post-training, including  [ZipVL](https://arxiv.org/abs/2410.08584), [OmniSparse](https://arxiv.org/abs/2511.12201), and [Sparsity Forcing](https://arxiv.org/abs/2504.18579).
 
-- **Efficient Autoregressive Image Generation**, including [ZipAR](https://arxiv.org/abs/2412.04062) and [NAR](https://arxiv.org/abs/2503.10696).
+- **Efficient Autoregressive Image Generation**, including [ZipAR](https://arxiv.org/abs/2412.04062), [NAR](https://arxiv.org/abs/2503.10696) and FlashAR(upcoming).
 
 Currently, my research focuses on **embodied learning**, with two main directions:
 
