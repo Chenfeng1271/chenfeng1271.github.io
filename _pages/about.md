@@ -28,6 +28,7 @@ Currently, my research focuses on **embodied learning**, with two main direction
 
 News
 ------
+- **[2026.04]** 🎉 1 papers accepted to **IEEE Transactions on Affective Computing**.
 - **[2026.04]** 🎉 2 papers accepted to **ACL 2026**.
 - **[2026.03]** 🎉 4 papers accepted to **CVPR 2026**.
 
