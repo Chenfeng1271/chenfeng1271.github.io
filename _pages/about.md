@@ -148,7 +148,7 @@ Selected Publications
   </div>
   <div>
     <strong>Neighboring Autoregressive Modeling for Efficient Visual Generation</strong><br>
-    Yefei He<sup>*</sup>, Yuanyu He<sup>*</sup>, Shaoxuan He<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Hong Zhou, Kaipeng Zhang, Bohan Zhuang &nbsp;(<sup>*</sup>Equal contribution)<br>
+    Yefei He<sup>*</sup>, Yuanyu He<sup>*</sup>, Shaoxuan He<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Hong Zhou, Kaipeng Zhang, Bohan Zhuang &nbsp;<br>
     <em>ICCV, 2025</em><br>
     [<a href="https://arxiv.org/abs/2503.10696">Paper</a>]
   </div>
