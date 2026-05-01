@@ -40,6 +40,20 @@ Work Experience
 - **Research Intern**, Ant Group, Hangzhou (Sep 2022 – Apr 2024)
 
 
+Preprint
+------
+<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
+  <div style="flex-shrink:0; width:180px; margin-right:16px;">
+    <img src="{{ site.baseurl }}/images/paper/liveworld.png" style="width:100%; border-radius:4px;">
+  </div>
+  <div>
+    <strong>LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models</strong><br>
+    Zicheng Duan, Jiatong Xia, Zeyu Zhang, Wenbo Zhang, Gengze Zhou, Chenhui Gou, Yefei He, <strong>Feng Chen</strong> (Project Lead), Xinyu Zhang, Lingqiao Liu<br>
+    <em>arXiv preprint, 2026</em><br>
+    [<a href="https://arxiv.org/abs/2603.07145">Paper</a>]
+  </div>
+</div>
+
 Selected Publications
 ------
 
@@ -118,17 +132,7 @@ Selected Publications
 
 **Efficient and Controllable World Model**
 
-<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="{{ site.baseurl }}/images/paper/liveworld.png" style="width:100%; border-radius:4px;">
-  </div>
-  <div>
-    <strong>LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models</strong><br>
-    Zicheng Duan, Jiatong Xia, Zeyu Zhang, Wenbo Zhang, Gengze Zhou, Chenhui Gou, Yefei He, <strong>Feng Chen</strong> (Project Lead), Xinyu Zhang, Lingqiao Liu<br>
-    <em>arXiv preprint, 2026</em><br>
-    [<a href="https://arxiv.org/abs/2603.07145">Paper</a>]
-  </div>
-</div>
+
 
 <div style="display:flex; align-items:flex-start; margin-bottom:24px;">
   <div style="flex-shrink:0; width:180px; margin-right:16px;">
