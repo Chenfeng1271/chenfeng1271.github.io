@@ -13,7 +13,7 @@ Hi 👋, I am a final-year Ph.D. candidate  at the University of Adelaide, super
 [A/Prof. Bohan Zhuang](https://ziplab.co/people/) and
 [A/Prof. Qi Wu](https://scholar.google.com/citations?user=aKXe1FEAAAAJ&hl=en).
 
-My research focuses on developing **efficient and scalable AI algorithms** for multimodal learning and image generation. Previously, I have worked on the following topics:
+My research focuses on developing **efficient and scalable AI algorithms** for multimodal understanding and image generation. Previously, I have worked on the following topics:
 
 - **Long Context Efficiency of MLLMs** across inference, training, and post-training, including  [ZipVL](https://arxiv.org/abs/2410.08584), [OmniSparse](https://arxiv.org/abs/2511.12201), and [Sparsity Forcing](https://arxiv.org/abs/2504.18579).
 
