@@ -17,7 +17,7 @@ My research focuses on developing **efficient and scalable AI algorithms** for m
 
 - **Long Context Efficiency of MLLMs** across inference, training, and post-training, including  [ZipVL](https://arxiv.org/abs/2410.08584), [OmniSparse](https://arxiv.org/abs/2511.12201), and [Sparsity Forcing](https://arxiv.org/abs/2504.18579).
 
-- **Efficient Autoregressive Image Generation** with speculative decoding, parallel pipeline design and post-training distillation, including [ZipAR](https://arxiv.org/abs/2412.04062), [NAR](https://arxiv.org/abs/2503.10696) and FlashAR (upcoming).
+- **Efficient Autoregressive Image Generation** with speculative decoding, parallel pipeline design and post-training distillation, including [ZipAR](https://arxiv.org/abs/2412.04062), [NAR](https://arxiv.org/abs/2503.10696) and [FlashAR](https://lxazjk.github.io/FlashAR/).
 
 Currently, my research focuses on **embodied learning**, with two main directions:
 
@@ -51,6 +51,18 @@ Preprint
     Zicheng Duan, Jiatong Xia, Zeyu Zhang, Wenbo Zhang, Gengze Zhou, Chenhui Gou, Yefei He, <strong>Feng Chen</strong> (Project Lead), Xinyu Zhang, Lingqiao Liu<br>
     <em>arXiv preprint, 2026</em><br>
     [<a href="https://arxiv.org/abs/2603.07145">Paper</a>]
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
+  <div style="flex-shrink:0; width:180px; margin-right:16px;">
+    <img src="{{ site.baseurl }}/images/paper/flashar.png" style="width:100%; border-radius:4px;">
+  </div>
+  <div>
+    <strong>FlashAR: Efficient Post-Training Acceleration for Autoregressive Image Generation</strong><br>
+    Junkang Zhou<sup>*</sup>, Yefei He<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Weijie Wang, Bohan Zhuang &nbsp;<br>
+    <em>arXiv preprint, 2025</em><br>
+    [<a href="https://lxazjk.github.io/FlashAR/">Project Page</a>]
   </div>
 </div>
 
