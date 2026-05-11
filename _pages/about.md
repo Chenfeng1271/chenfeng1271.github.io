@@ -28,6 +28,7 @@ Currently, my research focuses on **embodied learning**, with two main direction
 
 News
 ------
+- **[2026.05]** Our FlashAR, a post-training acceleration for AR image generationm is now [release](https://lxazjk.github.io/FlashAR/).
 - **[2026.04]** 🎉 1 paper accepted to **IEEE TAFFC**.
 - **[2026.04]** 🎉 2 papers accepted to **ACL 2026**.
 - **[2026.03]** 🎉 4 papers accepted to **CVPR 2026**.
