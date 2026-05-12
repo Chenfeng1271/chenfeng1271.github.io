@@ -62,8 +62,8 @@ Preprint
   <div>
     <strong>FlashAR: Efficient Post-Training Acceleration for Autoregressive Image Generation</strong><br>
     Junkang Zhou<sup>*</sup>, Yefei He<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Weijie Wang, Bohan Zhuang &nbsp;<br>
-    <em>arXiv preprint, 2025</em><br>
-    [<a href="https://lxazjk.github.io/FlashAR/">Project Page</a>]
+    <em>arXiv preprint, 2026</em><br>
+    [<a href="https://arxiv.org/pdf/2605.09430">Paper</a>]
   </div>
 </div>
 
