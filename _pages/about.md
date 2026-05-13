@@ -67,6 +67,18 @@ Preprint
   </div>
 </div>
 
+<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
+  <div style="flex-shrink:0; width:180px; margin-right:16px;">
+    <img src="{{ site.baseurl }}/images/paper/A3.png" style="width:100%; border-radius:4px;">
+  </div>
+  <div>
+    <strong>Dynamic Execution Commitment of Vision-Language-Action Models  </strong><br>
+    <strong>Feng Chen</strong>, Xianghui Wang, Yuxuan Chen, Boying Li, Yefei He, Zeyu Zhang, Yicheng Wu &nbsp;<br>
+    <em>arXiv preprint, 2026</em><br>
+    [<a href="https://arxiv.org/pdf/2605.11567">Paper</a>]
+  </div>
+</div>
+
 Selected Publications
 ------
 
