@@ -23,13 +23,13 @@ Currently, my research focuses on **embodied learning**, with two main direction
 
 - **Efficient VLA**: improving *policy efficiency* by enabling VLA models to complete tasks with fewer action steps and over longer horizons, reducing redundant inference while maintaining robust task performance.
 
-- **3D-aware Physical-aware World Models**: building world models with a *3D Gaussian-aware tokenizer* for spatially grounded scene representation, and designing benchmarks at the level of *physical formulas* to evaluate whether models truly understand physical laws, towards [large-scale world simulation](https://arxiv.org/abs/2603.07145).
+- **3D-aware Physical World Models**: building world models with a *3D Gaussian-aware tokenizer* for spatially grounded scene representation, and designing benchmarks at the level of *physical formulas* to evaluate whether models truly understand physical laws, towards [large-scale world simulation](https://arxiv.org/abs/2603.07145).
 
 
 News
 ------
-- **[2026.05]** Our *A<sup>3</sup>*, a dynamic execution horizon method for VLA, is now [released](https://arxiv.org/pdf/2605.11567).
-- **[2026.05]** Our *FlashAR*, a post-training acceleration for AR image generationm, is now [released](https://lxazjk.github.io/FlashAR/).
+- **[2026.05]** Our **A<sup>3</sup>**, a dynamic execution horizon method for VLA, is now [released](https://arxiv.org/pdf/2605.11567).
+- **[2026.05]** Our **FlashAR**, a post-training acceleration for AR image generationm, is now [released](https://lxazjk.github.io/FlashAR/).
 - **[2026.04]** 🎉 1 paper accepted to **IEEE TAFFC**.
 - **[2026.04]** 🎉 2 papers accepted to **ACL 2026**.
 - **[2026.03]** 🎉 4 papers accepted to **CVPR 2026**.
