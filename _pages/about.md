@@ -23,7 +23,7 @@ Currently, my research focuses on **embodied learning**, with two main direction
 
 - **Efficient VLA**: improving *policy efficiency* by enabling VLA models to complete tasks with fewer action steps and over longer horizons, reducing redundant inference while maintaining robust task performance.
 
-- **Physical-aware World Models**: building world models with a *3D Gaussian-aware tokenizer* for spatially grounded scene representation, and designing benchmarks at the level of *physical formulas* to evaluate whether models truly understand physical laws, towards [large-scale world simulation](https://arxiv.org/abs/2603.07145).
+- **3D-aware Physical-aware World Models**: building world models with a *3D Gaussian-aware tokenizer* for spatially grounded scene representation, and designing benchmarks at the level of *physical formulas* to evaluate whether models truly understand physical laws, towards [large-scale world simulation](https://arxiv.org/abs/2603.07145).
 
 
 News
