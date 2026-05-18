@@ -49,7 +49,7 @@ Preprint
     <strong>LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models</strong><br>
     Zicheng Duan, Jiatong Xia, Zeyu Zhang, Wenbo Zhang, Gengze Zhou, Chenhui Gou, Yefei He, <strong>Feng Chen</strong> (Project Lead), Xinyu Zhang, Lingqiao Liu<br>
     <em>arXiv preprint, 2026</em><br>
-    [<a href="https://arxiv.org/abs/2603.07145">Paper</a>]
+    [<a href="https://arxiv.org/abs/2603.07145">Paper</a>] [<a href="https://zichengduan.github.io/pages/LiveWorld/index.html">Project</a>]
   </div>
 </div>
 
@@ -58,7 +58,7 @@ Preprint
     <strong>FlashAR: Efficient Post-Training Acceleration for Autoregressive Image Generation</strong><br>
     Junkang Zhou<sup>*</sup>, Yefei He<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Weijie Wang, Bohan Zhuang &nbsp;<br>
     <em>arXiv preprint, 2026</em><br>
-    [<a href="https://arxiv.org/pdf/2605.09430">Paper</a>]
+    [<a href="https://arxiv.org/pdf/2605.09430">Paper</a>] [<a href="https://lxazjk.github.io/FlashAR/">Project</a>]
   </div>
 </div>
 
@@ -67,7 +67,7 @@ Preprint
     <strong>Dynamic Execution Commitment of Vision-Language-Action Models  </strong><br>
     <strong>Feng Chen</strong>, Xianghui Wang, Yuxuan Chen, Boying Li, Yefei He, Zeyu Zhang, Yicheng Wu &nbsp;<br>
     <em>arXiv preprint, 2026</em><br>
-    [<a href="https://arxiv.org/pdf/2605.11567">Paper</a>]
+    [<a href="https://arxiv.org/pdf/2605.11567">Paper</a>] [<a href="https://inceptionwang.github.io/A3/">Project</a>]
   </div>
 </div>
 
@@ -81,6 +81,7 @@ Selected Publications
     <strong>Beyond Accuracy: An Empirical Study of Perception Stability in Multimodal Large Language Models</strong><br>
     <strong>Feng Chen</strong>, Chenhui Gou, Yefei He, Yang Yang, Bohan Zhuang, Qi Wu<br>
     <em>CVPR Findings, 2026</em><br>
+    [<a href="https://github.com/Chenfeng1271/AbilityLens">Code</a>]
   </div>
 </div>
 
@@ -116,7 +117,7 @@ Selected Publications
     <strong>Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention</strong><br>
     Zhen Yang, Mingyang Zhang, <strong>Feng Chen</strong>, Ganggui Ding, Liang Hou, Xin Tao, Ying-Cong Chen<br>
     <em>ACL, 2026</em><br>
-    [<a href="https://arxiv.org/abs/2510.13940">Paper</a>]
+    [<a href="https://arxiv.org/abs/2510.13940">Paper</a>] [<a href="https://github.com/EnVision-Research/MTI">Code</a>]
   </div>
 </div>
 
@@ -138,7 +139,7 @@ Selected Publications
     <strong>Chain of Event-Centric Causal Thought for Physically Plausible Video Generation</strong><br>
     Zixuan Wang<sup>*</sup>, Yixin Hu<sup>*</sup>, Haolan Wang, <strong>Feng Chen</strong><sup>*</sup>, Yan Liu, Wen Li, Yinjie Lei &nbsp;<br>
     <em>CVPR, 2026</em><br>
-    [<a href="https://arxiv.org/abs/2603.09094">Paper</a>]
+    [<a href="https://arxiv.org/abs/2603.09094">Paper</a>] [<a href="https://github.com/ZixuanWang0525/CoECT">Code</a>]
   </div>
 </div>
 
@@ -147,7 +148,7 @@ Selected Publications
     <strong>Neighboring Autoregressive Modeling for Efficient Visual Generation</strong><br>
     Yefei He<sup>*</sup>, Yuanyu He<sup>*</sup>, Shaoxuan He<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Hong Zhou, Kaipeng Zhang, Bohan Zhuang &nbsp;<br>
     <em>ICCV, 2025</em><br>
-    [<a href="https://arxiv.org/abs/2503.10696">Paper</a>]
+    [<a href="https://arxiv.org/abs/2503.10696">Paper</a>] [<a href="https://github.com/ThisisBillhe/NAR/tree/main">Code</a>]
   </div>
 </div>
 
@@ -156,7 +157,7 @@ Selected Publications
     <strong>ZipAR: Accelerating Auto-Regressive Image Generation through Spatial Locality</strong><br>
     Yefei He, <strong>Feng Chen</strong>, Yuanyu He, Shaoxuan He, Hong Zhou, Kaipeng Zhang, Bohan Zhuang<br>
     <em>ICML, 2025</em><br>
-    [<a href="https://arxiv.org/abs/2412.04062">Paper</a>]
+    [<a href="https://arxiv.org/abs/2412.04062">Paper</a>] [<a href="https://github.com/thisisbillhe/zipar">Code</a>]
   </div>
 </div>
 
@@ -165,7 +166,7 @@ Selected Publications
     <strong>Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis</strong><br>
     Zixuan Wang, Duo Peng, <strong>Feng Chen</strong>, Yuwei Yang, Yinjie Lei<br>
     <em>CVPR, 2025</em><br>
-    [<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Training-free_Dense-Aligned_Diffusion_Guidance_for_Modular_Conditional_Image_Synthesis_CVPR_2025_paper.pdf">Paper</a>]
+    [<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Training-free_Dense-Aligned_Diffusion_Guidance_for_Modular_Conditional_Image_Synthesis_CVPR_2025_paper.pdf">Paper</a>] [<a href="https://github.com/ZixuanWang0525/DADG">Code</a>]
   </div>
 </div>
 
