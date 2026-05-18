@@ -44,10 +44,7 @@ Work Experience
 
 Preprint
 ------
-<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="{{ site.baseurl }}/images/paper/liveworld.png" style="width:100%; border-radius:4px;">
-  </div>
+<div style="margin-bottom:24px;">
   <div>
     <strong>LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models</strong><br>
     Zicheng Duan, Jiatong Xia, Zeyu Zhang, Wenbo Zhang, Gengze Zhou, Chenhui Gou, Yefei He, <strong>Feng Chen</strong> (Project Lead), Xinyu Zhang, Lingqiao Liu<br>
@@ -56,10 +53,7 @@ Preprint
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="{{ site.baseurl }}/images/paper/flashar.png" style="width:100%; border-radius:4px;">
-  </div>
+<div style="margin-bottom:24px;">
   <div>
     <strong>FlashAR: Efficient Post-Training Acceleration for Autoregressive Image Generation</strong><br>
     Junkang Zhou<sup>*</sup>, Yefei He<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Weijie Wang, Bohan Zhuang &nbsp;<br>
@@ -68,10 +62,7 @@ Preprint
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="{{ site.baseurl }}/images/paper/A3.png" style="width:100%; border-radius:4px;">
-  </div>
+<div style="margin-bottom:24px;">
   <div>
     <strong>Dynamic Execution Commitment of Vision-Language-Action Models  </strong><br>
     <strong>Feng Chen</strong>, Xianghui Wang, Yuxuan Chen, Boying Li, Yefei He, Zeyu Zhang, Yicheng Wu &nbsp;<br>
@@ -85,10 +76,7 @@ Selected Publications
 
 **Efficient MLLM**
 
-<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="{{ site.baseurl }}/images/paper/beyond%20accuracy.png" style="width:100%; border-radius:4px;">
-  </div>
+<div style="margin-bottom:24px;">
   <div>
     <strong>Beyond Accuracy: An Empirical Study of Perception Stability in Multimodal Large Language Models</strong><br>
     <strong>Feng Chen</strong>, Chenhui Gou, Yefei He, Yang Yang, Bohan Zhuang, Qi Wu<br>
@@ -96,10 +84,7 @@ Selected Publications
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="{{ site.baseurl }}/images/paper/sparsity%20forcing.png" style="width:100%; border-radius:4px;">
-  </div>
+<div style="margin-bottom:24px;">
   <div>
     <strong>Sparsity Forcing: Reinforcing Token Sparsity of MLLMs</strong><br>
     <strong>Feng Chen</strong>, Yefei He, Lequan Lin, Chenhui Gou, Jing Liu, Bohan Zhuang, Qi Wu<br>
@@ -108,10 +93,7 @@ Selected Publications
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="{{ site.baseurl }}/images/paper/omnisparse.png" style="width:100%; border-radius:4px;">
-  </div>
+<div style="margin-bottom:24px;">
   <div>
     <strong>OmniSparse: Training-Aware Fine-Grained Sparse Attention for Long-Video MLLMs</strong><br>
     <strong>Feng Chen</strong>, Yefei He, Shaoxuan He, Yuanyu He, Jing Liu, Lequan Lin, Akide Liu, Zhaoyang Li, Jiyuan Zhang, Zhenbang Sun, Bohan Zhuang, Qi Wu<br>
@@ -120,10 +102,7 @@ Selected Publications
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="{{ site.baseurl }}/images/paper/zipvl.png" style="width:100%; border-radius:4px;">
-  </div>
+<div style="margin-bottom:24px;">
   <div>
     <strong>ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification</strong><br>
     Yefei He, <strong>Feng Chen</strong>, Jing Liu, Wenqi Shao, Hong Zhou, Kaipeng Zhang, Bohan Zhuang<br>
@@ -132,10 +111,7 @@ Selected Publications
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="{{ site.baseurl }}/images/paper/MTI.png" style="width:100%; border-radius:4px;">
-  </div>
+<div style="margin-bottom:24px;">
   <div>
     <strong>Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention</strong><br>
     Zhen Yang, Mingyang Zhang, <strong>Feng Chen</strong>, Ganggui Ding, Liang Hou, Xin Tao, Ying-Cong Chen<br>
@@ -144,10 +120,7 @@ Selected Publications
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="{{ site.baseurl }}/images/paper/ACT.png" style="width:100%; border-radius:4px;">
-  </div>
+<div style="margin-bottom:24px;">
   <div>
     <strong>ACT as Human: Multimodal Large Language Model Data Annotation with Critical Thinking</strong><br>
     Lequan Lin, Dai Shi, Andi Han, <strong>Feng Chen</strong>, Qiuzheng Chen, Jiawen Li, Zhaoyang Li, Jiyuan Li, Zhenbang Sun, Junbin Gao<br>
@@ -160,10 +133,7 @@ Selected Publications
 
 
 
-<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="{{ site.baseurl }}/images/paper/chain_of_event.png" style="width:100%; border-radius:4px;">
-  </div>
+<div style="margin-bottom:24px;">
   <div>
     <strong>Chain of Event-Centric Causal Thought for Physically Plausible Video Generation</strong><br>
     Zixuan Wang<sup>*</sup>, Yixin Hu<sup>*</sup>, Haolan Wang, <strong>Feng Chen</strong><sup>*</sup>, Yan Liu, Wen Li, Yinjie Lei &nbsp;<br>
@@ -172,10 +142,7 @@ Selected Publications
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="{{ site.baseurl }}/images/paper/NAR.png" style="width:100%; border-radius:4px;">
-  </div>
+<div style="margin-bottom:24px;">
   <div>
     <strong>Neighboring Autoregressive Modeling for Efficient Visual Generation</strong><br>
     Yefei He<sup>*</sup>, Yuanyu He<sup>*</sup>, Shaoxuan He<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Hong Zhou, Kaipeng Zhang, Bohan Zhuang &nbsp;<br>
@@ -184,10 +151,7 @@ Selected Publications
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="{{ site.baseurl }}/images/paper/ZIPAR.png" style="width:100%; border-radius:4px;">
-  </div>
+<div style="margin-bottom:24px;">
   <div>
     <strong>ZipAR: Accelerating Auto-Regressive Image Generation through Spatial Locality</strong><br>
     Yefei He, <strong>Feng Chen</strong>, Yuanyu He, Shaoxuan He, Hong Zhou, Kaipeng Zhang, Bohan Zhuang<br>
@@ -196,10 +160,7 @@ Selected Publications
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="{{ site.baseurl }}/images/paper/modular.png" style="width:100%; border-radius:4px;">
-  </div>
+<div style="margin-bottom:24px;">
   <div>
     <strong>Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis</strong><br>
     Zixuan Wang, Duo Peng, <strong>Feng Chen</strong>, Yuwei Yang, Yinjie Lei<br>
@@ -208,10 +169,7 @@ Selected Publications
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="{{ site.baseurl }}/images/paper/motion.png" style="width:100%; border-radius:4px;">
-  </div>
+<div style="margin-bottom:24px;">
   <div>
     <strong>Training-free Motion Factorization for Compositional Video Generation</strong><br>
     Zixuan Wang, Ziqin Zhou, <strong>Feng Chen</strong>, Duo Peng, Yixin Hu, Changsheng Li, Yinjie Lei<br>
@@ -222,10 +180,7 @@ Selected Publications
 
 **Others**
 
-<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="{{ site.baseurl }}/images/paper/UEN.png" style="width:100%; border-radius:4px;">
-  </div>
+<div style="margin-bottom:24px;">
   <div>
     <strong>Uncertainty-guided Learning for Improving Image Manipulation Detection</strong><br>
     Kaixiang Ji, <strong>Feng Chen</strong>, Xin Guo, Yadong Xu, Jian Wang, Jingdong Chen<br>
@@ -236,10 +191,7 @@ Selected Publications
 
 
 
-<div style="display:flex; align-items:flex-start; margin-bottom:24px;">
-  <div style="flex-shrink:0; width:180px; margin-right:16px;">
-    <img src="{{ site.baseurl }}/images/paper/BGA-MNER.png" style="width:100%; border-radius:4px;">
-  </div>
+<div style="margin-bottom:24px;">
   <div>
     <strong>Learning Implicit Entity-object Relations by Bidirectional Generative Alignment for Multimodal NER</strong><br>
     <strong>Feng Chen</strong>, Jiajia Liu, Kaixiang Ji, Wang Ren, Jian Wang, Jingdong Wang<br>
