@@ -183,6 +183,60 @@ Selected Publications
 
 <div style="margin-bottom:24px;">
   <div>
+    <strong>Balanced Cross-modal Prompt Learning and Fusion Network for Multi-modal Fake News Detection</strong><br>
+    Fei Wu, Hao Jin, <strong>Feng Chen</strong>, Yimu Ji, Xiao-Yuan Jing, Guo-Ping Jiang<br>
+    <em>Information Fusion, 2025</em><br>
+    [<a href="https://doi.org/10.1016/j.inffus.2025.103196">Paper</a>]
+  </div>
+</div>
+
+<div style="margin-bottom:24px;">
+  <div>
+    <strong>Learning Multi-granularity Representation with Transformer for Visible-Infrared Person Re-identification</strong><br>
+    Yujian Feng<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Guozi Sun, Fei Wu, Yimu Ji, Tianliang Liu, Shangdong Liu, Xiao-Yuan Jing, Jiebo Luo<br>
+    <em>Pattern Recognition, 2025</em><br>
+    [<a href="https://doi.org/10.1016/j.patcog.2025.111510">Paper</a>]
+  </div>
+</div>
+
+<div style="margin-bottom:24px;">
+  <div>
+    <strong>Homogeneous and Heterogeneous Relational Graph for Visible-Infrared Person Re-Identification</strong><br>
+    Yujian Feng<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Jian Yu, Yimu Ji, Fei Wu, Shangdong Liu, Xiao-Yuan Jing<br>
+    <em>Pattern Recognition, 2025</em><br>
+    [<a href="https://doi.org/10.1016/j.patcog.2024.110981">Paper</a>] [<a href="https://github.com/fegnyujian/Homogeneous-and-Heterogeneous-Relational-Graph">Code</a>]
+  </div>
+</div>
+
+<div style="margin-bottom:24px;">
+  <div>
+    <strong>Cross-Modality Spatial-Temporal Transformer for Video-Based Visible-Infrared Person Re-Identification</strong><br>
+    Yujian Feng<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Jian Yu, Yimu Ji, Fei Wu, Tianliang Liu, Shangdong Liu, Xiao-Yuan Jing, Jiebo Luo<br>
+    <em>IEEE Transactions on Multimedia, 2024</em><br>
+    [<a href="https://doi.org/10.1109/TMM.2024.3354575">Paper</a>]
+  </div>
+</div>
+
+<div style="margin-bottom:24px;">
+  <div>
+    <strong>Visible-Infrared Person Re-Identification via Cross-Modality Interaction Transformer</strong><br>
+    Yujian Feng, Jian Yu, <strong>Feng Chen</strong>, Yimu Ji, Fei Wu, Shangdong Liu, Xiao-Yuan Jing<br>
+    <em>IEEE Transactions on Multimedia, 2023</em><br>
+    [<a href="https://doi.org/10.1109/TMM.2022.3224663">Paper</a>]
+  </div>
+</div>
+
+<div style="margin-bottom:24px;">
+  <div>
+    <strong>Coarse-to-Fine Open Information Extraction via Relation Oriented Reading Comprehension</strong><br>
+    Tingxin Li, Rui Meng, <strong>Feng Chen</strong>, Jianming Wu<br>
+    <em>SDM, 2023</em><br>
+    [<a href="https://doi.org/10.1137/1.9781611977653.ch103">Paper</a>]
+  </div>
+</div>
+
+<div style="margin-bottom:24px;">
+  <div>
     <strong>Uncertainty-guided Learning for Improving Image Manipulation Detection</strong><br>
     Kaixiang Ji, <strong>Feng Chen</strong>, Xin Guo, Yadong Xu, Jian Wang, Jingdong Chen<br>
     <em>ICCV, 2023</em><br>
@@ -198,6 +252,15 @@ Selected Publications
     <strong>Feng Chen</strong>, Jiajia Liu, Kaixiang Ji, Wang Ren, Jian Wang, Jingdong Wang<br>
     <em>ACM MM, 2023</em><br>
     [<a href="https://arxiv.org/abs/2308.02570">Paper</a>]
+  </div>
+</div>
+
+<div style="margin-bottom:24px;">
+  <div>
+    <strong>JSPNet: Learning Joint Semantic & Instance Segmentation of Point Clouds via Feature Self-Similarity and Cross-Task Probability</strong><br>
+    <strong>Feng Chen</strong>, Fei Wu, Guangwei Gao, Yimu Ji, Jing Xu, Guo-Ping Jiang, Xiao-Yuan Jing<br>
+    <em>Pattern Recognition, 2022</em><br>
+    [<a href="https://doi.org/10.1016/j.patcog.2021.108250">Paper</a>] [<a href="https://github.com/Chenfeng1271/JSPNet">Code</a>]
   </div>
 </div>
 
