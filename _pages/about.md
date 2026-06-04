@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**I am actively looking for industry and postdoc positions in MLLM pretraining, VLA, World Model, and related areas. Feel free to reach out via [email](mailto:chenfeng1271@gmail.com) if you are interested!**
+**I am actively looking for industry positions in MLLM pretraining, VLA, World Model, and related areas. Feel free to reach out via [email](mailto:chenfeng1271@gmail.com) if you are interested!**
 
 Hi 👋, I am a final-year Ph.D. candidate  at the University of Adelaide, supervised by
 [A/Prof. Bohan Zhuang](https://ziplab.co/people/) and
