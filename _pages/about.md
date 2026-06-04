@@ -74,7 +74,7 @@ Preprint
 Selected Publications
 ------
 
-**Efficient MLLM**
+**Efficient MLLM/VLA**
 
 <div style="margin-bottom:24px;">
   <div>
