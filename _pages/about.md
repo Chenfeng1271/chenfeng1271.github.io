@@ -81,7 +81,7 @@ Selected Publications
     <strong>Beyond Accuracy: An Empirical Study of Perception Stability in Multimodal Large Language Models</strong><br>
     <strong>Feng Chen</strong>, Chenhui Gou, Yefei He, Yang Yang, Bohan Zhuang, Qi Wu<br>
     <em>CVPR Findings, 2026</em><br>
-    [<a href="https://github.com/Chenfeng1271/AbilityLens">Code</a>]
+    [<a href="https://openaccess.thecvf.com/content/CVPR2026F/papers/Chen_Beyond_Accuracy_An_Empirical_Study_of_Perception_Stability_in_Multimodal_CVPRF_2026_paper.pdf">Paper</a>] [<a href="https://github.com/Chenfeng1271/AbilityLens">Code</a>]
   </div>
 </div>
 
