@@ -46,6 +46,15 @@ Preprint
 ------
 <div style="margin-bottom:24px;">
   <div>
+    <strong>Latent Spatial Memory for Video World Models</strong><br>
+    Weijie Wang, Haoyu Zhao, Yifan Yang, <strong>Feng Chen</strong>, Zeyu Zhang, Yefei He, Zicheng Duan, Donny Y. Chen, Yuqing Yang, Bohan Zhuang<br>
+    <em>arXiv preprint, 2026</em><br>
+    [<a href="https://arxiv.org/abs/2606.09828">Paper</a>] [<a href="https://aka.ms/latent-spatial-memory">Project</a>] [<a href="https://github.com/microsoft/LatentSpatialMemory">Code</a>] [<a href="https://huggingface.co/papers/2606.09828">Hugging Face</a>]
+  </div>
+</div>
+
+<div style="margin-bottom:24px;">
+  <div>
     <strong>LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models</strong><br>
     Zicheng Duan, Jiatong Xia, Zeyu Zhang, Wenbo Zhang, Gengze Zhou, Chenhui Gou, Yefei He, <strong>Feng Chen</strong> (Project Lead), Xinyu Zhang, Lingqiao Liu<br>
     <em>arXiv preprint, 2026</em><br>
