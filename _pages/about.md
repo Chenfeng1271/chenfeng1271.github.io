@@ -28,6 +28,7 @@ Currently, my research focuses on **embodied learning**, with two main direction
 
 News
 ------
+- **[2026.06]** Our latent 3D memory for video world model is now [released](https://microsoft.github.io/LatentSpatialMemory/).
 - **[2026.05]** Our **A<sup>3</sup>**, a dynamic execution horizon method for VLA, is now [released](https://inceptionwang.github.io/A3/).
 - **[2026.05]** Our **FlashAR**, a post-training acceleration for AR image generationm, is now [released](https://lxazjk.github.io/FlashAR/).
 - **[2026.04]** 🎉 1 paper accepted to **IEEE TAFFC**.
