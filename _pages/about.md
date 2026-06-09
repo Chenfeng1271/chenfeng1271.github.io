@@ -59,7 +59,7 @@ Preprint
     <strong>LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models</strong><br>
     Zicheng Duan, Jiatong Xia, Zeyu Zhang, Wenbo Zhang, Gengze Zhou, Chenhui Gou, Yefei He, <strong>Feng Chen</strong> (Project Lead), Xinyu Zhang, Lingqiao Liu<br>
     <em>arXiv preprint, 2026</em><br>
-    [<a href="https://arxiv.org/abs/2603.07145">Paper</a>] [<a href="https://zichengduan.github.io/pages/LiveWorld/index.html">Project</a>]
+    [<a href="https://arxiv.org/abs/2603.07145">Paper</a>] [<a href="https://zichengduan.github.io/pages/LiveWorld/index.html">Project</a>] [<a href="https://github.com/ZichengDuan/LiveWorld">Code</a>]
   </div>
 </div>
 
@@ -68,7 +68,7 @@ Preprint
     <strong>FlashAR: Efficient Post-Training Acceleration for Autoregressive Image Generation</strong><br>
     Junkang Zhou<sup>*</sup>, Yefei He<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Weijie Wang, Bohan Zhuang &nbsp;<br>
     <em>arXiv preprint, 2026</em><br>
-    [<a href="https://arxiv.org/pdf/2605.09430">Paper</a>] [<a href="https://lxazjk.github.io/FlashAR/">Project</a>]
+    [<a href="https://arxiv.org/pdf/2605.09430">Paper</a>] [<a href="https://lxazjk.github.io/FlashAR/">Project</a>] [<a href="https://github.com/lxazjk/LlamaGen-FlashAR">Code</a>]
   </div>
 </div>
 
@@ -77,7 +77,7 @@ Preprint
     <strong>Dynamic Execution Commitment of Vision-Language-Action Models  </strong><br>
     <strong>Feng Chen</strong>, Xianghui Wang, Yuxuan Chen, Boying Li, Yefei He, Zeyu Zhang, Yicheng Wu &nbsp;<br>
     <em>arXiv preprint, 2026</em><br>
-    [<a href="https://arxiv.org/pdf/2605.11567">Paper</a>] [<a href="https://inceptionwang.github.io/A3/">Project</a>]
+    [<a href="https://arxiv.org/pdf/2605.11567">Paper</a>] [<a href="https://inceptionwang.github.io/A3/">Project</a>] [<a href="https://github.com/INCEPTIONwang/A3">Code</a>]
   </div>
 </div>
 
