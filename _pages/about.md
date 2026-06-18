@@ -25,7 +25,7 @@ Currently, my research focuses on **embodied learning**, with two main direction
 
 - **3D-aware Physical World Models**: building world models with a *3D Gaussian-aware tokenizer* for spatially grounded scene representation, and designing benchmarks at the level of *physical formulas* to evaluate whether models truly understand physical laws, towards [large-scale world simulation](https://arxiv.org/abs/2603.07145).
 
-We are looking for self-motivated PhD students and interns. If you are interested in joining us, please feel free to contact us with your CV as the [post](https://ziplab.co/uploads/zip-lab-poster-full.html)!
+We are looking for highly self-motivated PhD students and interns. If you are interested in joining us, please feel free to contact us with your CV as the [post](https://ziplab.co/uploads/zip-lab-poster-full.html)!
 
 
 News
