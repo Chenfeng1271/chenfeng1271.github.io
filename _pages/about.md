@@ -28,6 +28,7 @@ Currently, my research focuses on **embodied learning**, with two main direction
 
 News
 ------
+- **[2026.06]** 🎉 4 paper accepted to **ECCV 2026**.
 - **[2026.06]** Our latent 3D memory for video world model is now [released](https://microsoft.github.io/LatentSpatialMemory/).
 - **[2026.05]** Our **A<sup>3</sup>**, a dynamic execution horizon method for VLA, is now [released](https://inceptionwang.github.io/A3/).
 - **[2026.05]** Our **FlashAR**, a post-training acceleration for AR image generationm, is now [released](https://lxazjk.github.io/FlashAR/).
@@ -54,14 +55,6 @@ Preprint
   </div>
 </div>
 
-<div style="margin-bottom:24px;">
-  <div>
-    <strong>LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models</strong><br>
-    Zicheng Duan, Jiatong Xia, Zeyu Zhang, Wenbo Zhang, Gengze Zhou, Chenhui Gou, Yefei He, <strong>Feng Chen</strong> (Project Lead), Xinyu Zhang, Lingqiao Liu<br>
-    <em>arXiv preprint, 2026</em><br>
-    [<a href="https://arxiv.org/abs/2603.07145">Paper</a>] [<a href="https://zichengduan.github.io/pages/LiveWorld/index.html">Project</a>] [<a href="https://github.com/ZichengDuan/LiveWorld">Code</a>]
-  </div>
-</div>
 
 <div style="margin-bottom:24px;">
   <div>
@@ -142,7 +135,14 @@ Selected Publications
 
 **Efficient and Controllable World Model**
 
-
+<div style="margin-bottom:24px;">
+  <div>
+    <strong>LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models</strong><br>
+    Zicheng Duan, Jiatong Xia, Zeyu Zhang, Wenbo Zhang, Gengze Zhou, Chenhui Gou, Yefei He, <strong>Feng Chen</strong> (Project Lead), Xinyu Zhang, Lingqiao Liu<br>
+    <em>ECCV, 2026</em><br>
+    [<a href="https://arxiv.org/abs/2603.07145">Paper</a>] [<a href="https://zichengduan.github.io/pages/LiveWorld/index.html">Project</a>] [<a href="https://github.com/ZichengDuan/LiveWorld">Code</a>]
+  </div>
+</div>
 
 <div style="margin-bottom:24px;">
   <div>
