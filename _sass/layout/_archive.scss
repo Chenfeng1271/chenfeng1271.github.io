@@ -84,6 +84,44 @@
   }
 }
 
+.publication-list__item {
+  display: grid;
+  grid-template-columns: minmax(112px, 150px) 1fr;
+  gap: 1rem;
+  align-items: start;
+  margin-bottom: 24px;
+}
+
+.publication-list__venue {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: 6px;
+  background: linear-gradient(135deg, #b423b8, #8b35d5);
+  box-shadow: 0 4px 10px rgba(105, 47, 160, 0.24);
+  color: #fff;
+  font-weight: 700;
+  line-height: 1.1;
+  text-align: center;
+}
+
+.publication-list__body {
+  min-width: 0;
+}
+
+@include breakpoint(max-width $small) {
+  .publication-list__item {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+
+  .publication-list__venue {
+    justify-self: start;
+  }
+}
+
 
 /*
    List view

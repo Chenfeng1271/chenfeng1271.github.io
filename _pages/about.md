@@ -48,8 +48,9 @@ Work Experience
 
 Preprint
 ------
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">arXiv preprint</div>
+  <div class="publication-list__body">
     <strong>Latent Spatial Memory for Video World Models</strong><br>
     Weijie Wang, Haoyu Zhao, Yifan Yang, <strong>Feng Chen</strong>, Zeyu Zhang, Yefei He, Zicheng Duan, Donny Y. Chen, Yuqing Yang, Bohan Zhuang<br>
     <em>arXiv preprint, 2026</em><br>
@@ -58,8 +59,9 @@ Preprint
 </div>
 
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">arXiv preprint</div>
+  <div class="publication-list__body">
     <strong>FlashAR: Efficient Post-Training Acceleration for Autoregressive Image Generation</strong><br>
     Junkang Zhou<sup>*</sup>, Yefei He<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Weijie Wang, Bohan Zhuang &nbsp;<br>
     <em>arXiv preprint, 2026</em><br>
@@ -67,8 +69,9 @@ Preprint
   </div>
 </div>
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">arXiv preprint</div>
+  <div class="publication-list__body">
     <strong>Dynamic Execution Commitment of Vision-Language-Action Models  </strong><br>
     <strong>Feng Chen</strong>, Xianghui Wang, Yuxuan Chen, Boying Li, Yefei He, Zeyu Zhang, Yicheng Wu &nbsp;<br>
     <em>arXiv preprint, 2026</em><br>
@@ -81,8 +84,9 @@ Selected Publications
 
 **Efficient MLLM/VLA**
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">CVPR Findings</div>
+  <div class="publication-list__body">
     <strong>Beyond Accuracy: An Empirical Study of Perception Stability in Multimodal Large Language Models</strong><br>
     <strong>Feng Chen</strong>, Chenhui Gou, Yefei He, Yang Yang, Bohan Zhuang, Qi Wu<br>
     <em>CVPR Findings, 2026</em><br>
@@ -90,8 +94,9 @@ Selected Publications
   </div>
 </div>
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">ICLR</div>
+  <div class="publication-list__body">
     <strong>Sparsity Forcing: Reinforcing Token Sparsity of MLLMs</strong><br>
     <strong>Feng Chen</strong>, Yefei He, Lequan Lin, Chenhui Gou, Jing Liu, Bohan Zhuang, Qi Wu<br>
     <em>ICLR, 2026</em><br>
@@ -99,8 +104,9 @@ Selected Publications
   </div>
 </div>
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">AAAI</div>
+  <div class="publication-list__body">
     <strong>OmniSparse: Training-Aware Fine-Grained Sparse Attention for Long-Video MLLMs</strong><br>
     <strong>Feng Chen</strong>, Yefei He, Shaoxuan He, Yuanyu He, Jing Liu, Lequan Lin, Akide Liu, Zhaoyang Li, Jiyuan Zhang, Zhenbang Sun, Bohan Zhuang, Qi Wu<br>
     <em>AAAI, 2026</em><br>
@@ -108,8 +114,9 @@ Selected Publications
   </div>
 </div>
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">ICCV</div>
+  <div class="publication-list__body">
     <strong>ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification</strong><br>
     Yefei He, <strong>Feng Chen</strong>, Jing Liu, Wenqi Shao, Hong Zhou, Kaipeng Zhang, Bohan Zhuang<br>
     <em>ICCV, 2025</em><br>
@@ -117,8 +124,9 @@ Selected Publications
   </div>
 </div>
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">ACL</div>
+  <div class="publication-list__body">
     <strong>Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention</strong><br>
     Zhen Yang, Mingyang Zhang, <strong>Feng Chen</strong>, Ganggui Ding, Liang Hou, Xin Tao, Ying-Cong Chen<br>
     <em>ACL, 2026</em><br>
@@ -126,8 +134,9 @@ Selected Publications
   </div>
 </div>
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">NeurIPS</div>
+  <div class="publication-list__body">
     <strong>ACT as Human: Multimodal Large Language Model Data Annotation with Critical Thinking</strong><br>
     Lequan Lin, Dai Shi, Andi Han, <strong>Feng Chen</strong>, Qiuzheng Chen, Jiawen Li, Zhaoyang Li, Jiyuan Li, Zhenbang Sun, Junbin Gao<br>
     <em>NeurIPS, 2025</em><br>
@@ -137,8 +146,9 @@ Selected Publications
 
 **Efficient and Controllable World Model**
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">ECCV</div>
+  <div class="publication-list__body">
     <strong>LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models</strong><br>
     Zicheng Duan, Jiatong Xia, Zeyu Zhang, Wenbo Zhang, Gengze Zhou, Chenhui Gou, Yefei He, <strong>Feng Chen</strong> (Project Lead), Xinyu Zhang, Lingqiao Liu<br>
     <em>ECCV, 2026</em><br>
@@ -146,8 +156,9 @@ Selected Publications
   </div>
 </div>
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">CVPR</div>
+  <div class="publication-list__body">
     <strong>Chain of Event-Centric Causal Thought for Physically Plausible Video Generation</strong><br>
     Zixuan Wang<sup>*</sup>, Yixin Hu<sup>*</sup>, Haolan Wang, <strong>Feng Chen</strong><sup>*</sup>, Yan Liu, Wen Li, Yinjie Lei &nbsp;<br>
     <em>CVPR, 2026</em><br>
@@ -155,8 +166,9 @@ Selected Publications
   </div>
 </div>
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">ICCV</div>
+  <div class="publication-list__body">
     <strong>Neighboring Autoregressive Modeling for Efficient Visual Generation</strong><br>
     Yefei He<sup>*</sup>, Yuanyu He<sup>*</sup>, Shaoxuan He<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Hong Zhou, Kaipeng Zhang, Bohan Zhuang &nbsp;<br>
     <em>ICCV, 2025</em><br>
@@ -164,8 +176,9 @@ Selected Publications
   </div>
 </div>
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">ICML</div>
+  <div class="publication-list__body">
     <strong>ZipAR: Accelerating Auto-Regressive Image Generation through Spatial Locality</strong><br>
     Yefei He, <strong>Feng Chen</strong>, Yuanyu He, Shaoxuan He, Hong Zhou, Kaipeng Zhang, Bohan Zhuang<br>
     <em>ICML, 2025</em><br>
@@ -173,8 +186,9 @@ Selected Publications
   </div>
 </div>
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">CVPR</div>
+  <div class="publication-list__body">
     <strong>Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis</strong><br>
     Zixuan Wang, Duo Peng, <strong>Feng Chen</strong>, Yuwei Yang, Yinjie Lei<br>
     <em>CVPR, 2025</em><br>
@@ -182,8 +196,9 @@ Selected Publications
   </div>
 </div>
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">CVPR</div>
+  <div class="publication-list__body">
     <strong>Training-free Motion Factorization for Compositional Video Generation</strong><br>
     Zixuan Wang, Ziqin Zhou, <strong>Feng Chen</strong>, Duo Peng, Yixin Hu, Changsheng Li, Yinjie Lei<br>
     <em>CVPR, 2026</em><br>
@@ -193,8 +208,9 @@ Selected Publications
 
 **Others**
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">Information Fusion</div>
+  <div class="publication-list__body">
     <strong>Balanced Cross-modal Prompt Learning and Fusion Network for Multi-modal Fake News Detection</strong><br>
     Fei Wu, Hao Jin, <strong>Feng Chen</strong>, Yimu Ji, Xiao-Yuan Jing, Guo-Ping Jiang<br>
     <em>Information Fusion, 2025</em><br>
@@ -202,8 +218,9 @@ Selected Publications
   </div>
 </div>
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">Pattern Recognition</div>
+  <div class="publication-list__body">
     <strong>Learning Multi-granularity Representation with Transformer for Visible-Infrared Person Re-identification</strong><br>
     Yujian Feng<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Guozi Sun, Fei Wu, Yimu Ji, Tianliang Liu, Shangdong Liu, Xiao-Yuan Jing, Jiebo Luo<br>
     <em>Pattern Recognition, 2025</em><br>
@@ -211,8 +228,9 @@ Selected Publications
   </div>
 </div>
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">Pattern Recognition</div>
+  <div class="publication-list__body">
     <strong>Homogeneous and Heterogeneous Relational Graph for Visible-Infrared Person Re-Identification</strong><br>
     Yujian Feng<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Jian Yu, Yimu Ji, Fei Wu, Shangdong Liu, Xiao-Yuan Jing<br>
     <em>Pattern Recognition, 2025</em><br>
@@ -220,8 +238,9 @@ Selected Publications
   </div>
 </div>
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">IEEE Transactions on Multimedia</div>
+  <div class="publication-list__body">
     <strong>Cross-Modality Spatial-Temporal Transformer for Video-Based Visible-Infrared Person Re-Identification</strong><br>
     Yujian Feng<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Jian Yu, Yimu Ji, Fei Wu, Tianliang Liu, Shangdong Liu, Xiao-Yuan Jing, Jiebo Luo<br>
     <em>IEEE Transactions on Multimedia, 2024</em><br>
@@ -229,8 +248,9 @@ Selected Publications
   </div>
 </div>
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">IEEE Transactions on Multimedia</div>
+  <div class="publication-list__body">
     <strong>Visible-Infrared Person Re-Identification via Cross-Modality Interaction Transformer</strong><br>
     Yujian Feng, Jian Yu, <strong>Feng Chen</strong>, Yimu Ji, Fei Wu, Shangdong Liu, Xiao-Yuan Jing<br>
     <em>IEEE Transactions on Multimedia, 2023</em><br>
@@ -238,8 +258,9 @@ Selected Publications
   </div>
 </div>
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">SDM</div>
+  <div class="publication-list__body">
     <strong>Coarse-to-Fine Open Information Extraction via Relation Oriented Reading Comprehension</strong><br>
     Tingxin Li, Rui Meng, <strong>Feng Chen</strong>, Jianming Wu<br>
     <em>SDM, 2023</em><br>
@@ -247,8 +268,9 @@ Selected Publications
   </div>
 </div>
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">ICCV</div>
+  <div class="publication-list__body">
     <strong>Uncertainty-guided Learning for Improving Image Manipulation Detection</strong><br>
     Kaixiang Ji, <strong>Feng Chen</strong>, Xin Guo, Yadong Xu, Jian Wang, Jingdong Chen<br>
     <em>ICCV, 2023</em><br>
@@ -258,8 +280,9 @@ Selected Publications
 
 
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">ACM MM</div>
+  <div class="publication-list__body">
     <strong>Learning Implicit Entity-object Relations by Bidirectional Generative Alignment for Multimodal NER</strong><br>
     <strong>Feng Chen</strong>, Jiajia Liu, Kaixiang Ji, Wang Ren, Jian Wang, Jingdong Wang<br>
     <em>ACM MM, 2023</em><br>
@@ -267,8 +290,9 @@ Selected Publications
   </div>
 </div>
 
-<div style="margin-bottom:24px;">
-  <div>
+<div class="publication-list__item">
+  <div class="publication-list__venue">Pattern Recognition</div>
+  <div class="publication-list__body">
     <strong>JSPNet: Learning Joint Semantic & Instance Segmentation of Point Clouds via Feature Self-Similarity and Cross-Task Probability</strong><br>
     <strong>Feng Chen</strong>, Fei Wu, Guangwei Gao, Yimu Ji, Jing Xu, Guo-Ping Jiang, Xiao-Yuan Jing<br>
     <em>Pattern Recognition, 2022</em><br>
