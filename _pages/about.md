@@ -49,7 +49,7 @@ Work Experience
 Preprint
 ------
 <div class="publication-list__item">
-  <div class="publication-list__venue">arXiv preprint</div>
+  <div class="publication-list__venue">arXiv</div>
   <div class="publication-list__body">
     <strong>Latent Spatial Memory for Video World Models</strong><br>
     Weijie Wang, Haoyu Zhao, Yifan Yang, <strong>Feng Chen</strong>, Zeyu Zhang, Yefei He, Zicheng Duan, Donny Y. Chen, Yuqing Yang, Bohan Zhuang<br>
@@ -60,7 +60,7 @@ Preprint
 
 
 <div class="publication-list__item">
-  <div class="publication-list__venue">arXiv preprint</div>
+  <div class="publication-list__venue">arXiv</div>
   <div class="publication-list__body">
     <strong>FlashAR: Efficient Post-Training Acceleration for Autoregressive Image Generation</strong><br>
     Junkang Zhou<sup>*</sup>, Yefei He<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Weijie Wang, Bohan Zhuang &nbsp;<br>
@@ -70,7 +70,7 @@ Preprint
 </div>
 
 <div class="publication-list__item">
-  <div class="publication-list__venue">arXiv preprint</div>
+  <div class="publication-list__venue">arXiv</div>
   <div class="publication-list__body">
     <strong>Dynamic Execution Commitment of Vision-Language-Action Models  </strong><br>
     <strong>Feng Chen</strong>, Xianghui Wang, Yuxuan Chen, Boying Li, Yefei He, Zeyu Zhang, Yicheng Wu &nbsp;<br>
@@ -85,7 +85,7 @@ Selected Publications
 **Efficient MLLM/VLA**
 
 <div class="publication-list__item">
-  <div class="publication-list__venue">CVPR Findings</div>
+  <div class="publication-list__venue">CVPR</div>
   <div class="publication-list__body">
     <strong>Beyond Accuracy: An Empirical Study of Perception Stability in Multimodal Large Language Models</strong><br>
     <strong>Feng Chen</strong>, Chenhui Gou, Yefei He, Yang Yang, Bohan Zhuang, Qi Wu<br>
@@ -239,7 +239,7 @@ Selected Publications
 </div>
 
 <div class="publication-list__item">
-  <div class="publication-list__venue">IEEE Transactions on Multimedia</div>
+  <div class="publication-list__venue">IEEE TMM</div>
   <div class="publication-list__body">
     <strong>Cross-Modality Spatial-Temporal Transformer for Video-Based Visible-Infrared Person Re-Identification</strong><br>
     Yujian Feng<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Jian Yu, Yimu Ji, Fei Wu, Tianliang Liu, Shangdong Liu, Xiao-Yuan Jing, Jiebo Luo<br>
@@ -249,7 +249,7 @@ Selected Publications
 </div>
 
 <div class="publication-list__item">
-  <div class="publication-list__venue">IEEE Transactions on Multimedia</div>
+  <div class="publication-list__venue">IEEE TMM</div>
   <div class="publication-list__body">
     <strong>Visible-Infrared Person Re-Identification via Cross-Modality Interaction Transformer</strong><br>
     Yujian Feng, Jian Yu, <strong>Feng Chen</strong>, Yimu Ji, Fei Wu, Shangdong Liu, Xiao-Yuan Jing<br>
