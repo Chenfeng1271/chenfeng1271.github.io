@@ -85,7 +85,7 @@ Selected Publications
 
 <p><sup>*</sup> Equal contribution. <sup>&dagger;</sup> Project lead.</p>
 
-**Efficient MLLM/VLA**
+**Efficient MLLM/VLA/Agent**
 
 <div class="publication-list__item">
   <div class="publication-list__venue">ECCV</div>
