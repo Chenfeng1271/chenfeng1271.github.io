@@ -100,7 +100,7 @@ Selected Publications
   <div class="publication-list__venue">ECCV</div>
   <div class="publication-list__body">
     <strong>Agentic Collaborative Cognition for Zero-Shot 3D Understanding</strong><br>
-    Wenxin Wang, Bo Zhang, <strong>Feng Chen</strong><sup>*</sup><sup>&dagger;</sup>, Zixuan Wang, Wen Li, Changsheng Li, Yinjie Lei<br>
+    Wenxin Wang<sup>*</sup>, Bo Zhang<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup><sup>&dagger;</sup>, Zixuan Wang, Wen Li, Changsheng Li, Yinjie Lei<br>
     <em>ECCV, 2026</em><br>
   </div>
 </div>
