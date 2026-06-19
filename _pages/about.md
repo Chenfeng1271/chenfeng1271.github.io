@@ -17,7 +17,7 @@ My research focuses on developing **efficient and scalable AI algorithms** for m
 
 - **Long Context Efficiency of MLLMs** across inference, training, and post-training, including  [ZipVL](https://arxiv.org/abs/2410.08584), [OmniSparse](https://arxiv.org/abs/2511.12201), and [Sparsity Forcing](https://arxiv.org/abs/2504.18579).
 
-- **Efficient Autoregressive Image Generation** with speculative decoding, parallel pretrain and post-training distillation, including [ZipAR](https://arxiv.org/abs/2412.04062), [NAR](https://arxiv.org/abs/2503.10696) and [FlashAR](https://lxazjk.github.io/FlashAR/).
+- **Efficient Autoregressive Image Generation** with speculative decoding, parallel pretrain and post-training distillation, including [ZipAR](https://arxiv.org/abs/2412.04062), [NAR](https://yuanyu0.github.io/nar/) and [FlashAR](https://lxazjk.github.io/FlashAR/).
 
 Currently, my research focuses on **embodied learning**, with two main directions:
 
@@ -82,7 +82,18 @@ Preprint
 Selected Publications
 ------
 
+<p><sup>*</sup> Equal contribution. <sup>&dagger;</sup> Project lead.</p>
+
 **Efficient MLLM/VLA**
+
+<div class="publication-list__item">
+  <div class="publication-list__venue">ECCV</div>
+  <div class="publication-list__body">
+    <strong>PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models</strong><br>
+    Xianghui Wang<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup><sup>&dagger;</sup>, Wenbo Zhang, Hua Yan, Zixuan Wang, Changsheng Li, Yinjie Lei<br>
+    <em>ECCV, 2026</em><br>
+  </div>
+</div>
 
 <div class="publication-list__item">
   <div class="publication-list__venue">CVPR</div>
@@ -149,8 +160,17 @@ Selected Publications
 <div class="publication-list__item">
   <div class="publication-list__venue">ECCV</div>
   <div class="publication-list__body">
+    <strong>Agentic Collaborative Cognition for Zero-Shot 3D Understanding</strong><br>
+    Wenxin Wang, Bo Zhang, <strong>Feng Chen</strong><sup>*</sup><sup>&dagger;</sup>, Zixuan Wang, Wen Li, Changsheng Li, Yinjie Lei<br>
+    <em>ECCV, 2026</em><br>
+  </div>
+</div>
+
+<div class="publication-list__item">
+  <div class="publication-list__venue">ECCV</div>
+  <div class="publication-list__body">
     <strong>LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models</strong><br>
-    Zicheng Duan, Jiatong Xia, Zeyu Zhang, Wenbo Zhang, Gengze Zhou, Chenhui Gou, Yefei He, <strong>Feng Chen</strong> (Project Lead), Xinyu Zhang, Lingqiao Liu<br>
+    Zicheng Duan, Jiatong Xia, Zeyu Zhang, Wenbo Zhang, Gengze Zhou, Chenhui Gou, Yefei He, <strong>Feng Chen</strong><sup>&dagger;</sup>, Xinyu Zhang, Lingqiao Liu<br>
     <em>ECCV, 2026</em><br>
     [<a href="https://arxiv.org/abs/2603.07145">Paper</a>] [<a href="https://zichengduan.github.io/pages/LiveWorld/index.html">Project</a>] [<a href="https://github.com/ZichengDuan/LiveWorld">Code</a>]
   </div>
@@ -172,7 +192,7 @@ Selected Publications
     <strong>Neighboring Autoregressive Modeling for Efficient Visual Generation</strong><br>
     Yefei He<sup>*</sup>, Yuanyu He<sup>*</sup>, Shaoxuan He<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Hong Zhou, Kaipeng Zhang, Bohan Zhuang &nbsp;<br>
     <em>ICCV, 2025</em><br>
-    [<a href="https://arxiv.org/abs/2503.10696">Paper</a>] [<a href="https://github.com/ThisisBillhe/NAR/tree/main">Code</a>]
+    [<a href="https://arxiv.org/abs/2503.10696">Paper</a>] [<a href="https://yuanyu0.github.io/nar/">Project</a>] [<a href="https://github.com/ThisisBillhe/NAR/tree/main">Code</a>]
   </div>
 </div>
 
