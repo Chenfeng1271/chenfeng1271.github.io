@@ -96,6 +96,15 @@ Selected Publications
 </div>
 
 <div class="publication-list__item">
+  <div class="publication-list__venue">ECCV</div>
+  <div class="publication-list__body">
+    <strong>Agentic Collaborative Cognition for Zero-Shot 3D Understanding</strong><br>
+    Wenxin Wang, Bo Zhang, <strong>Feng Chen</strong><sup>*</sup><sup>&dagger;</sup>, Zixuan Wang, Wen Li, Changsheng Li, Yinjie Lei<br>
+    <em>ECCV, 2026</em><br>
+  </div>
+</div>
+
+<div class="publication-list__item">
   <div class="publication-list__venue">CVPR</div>
   <div class="publication-list__body">
     <strong>Beyond Accuracy: An Empirical Study of Perception Stability in Multimodal Large Language Models</strong><br>
@@ -157,14 +166,7 @@ Selected Publications
 
 **Efficient and Controllable World Model**
 
-<div class="publication-list__item">
-  <div class="publication-list__venue">ECCV</div>
-  <div class="publication-list__body">
-    <strong>Agentic Collaborative Cognition for Zero-Shot 3D Understanding</strong><br>
-    Wenxin Wang, Bo Zhang, <strong>Feng Chen</strong><sup>*</sup><sup>&dagger;</sup>, Zixuan Wang, Wen Li, Changsheng Li, Yinjie Lei<br>
-    <em>ECCV, 2026</em><br>
-  </div>
-</div>
+
 
 <div class="publication-list__item">
   <div class="publication-list__venue">ECCV</div>
