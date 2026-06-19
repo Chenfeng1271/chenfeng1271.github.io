@@ -21,7 +21,7 @@ My research focuses on developing **efficient and scalable AI algorithms** for m
 
 Currently, my research focuses on **embodied learning**, with two main directions:
 
-- **Efficient VLA/WAM**: improving *policy efficiency* by enabling VLA/WAM models to complete tasks with fewer action steps and over longer horizons, reducing redundant inference while maintaining robust task performance.
+- **Efficient Long-horizon VLA/WAM**: improving *policy efficiency* and *computation efficiency* of VLA/WAM models to complete tasks with fewer action steps and over longer horizons, reducing redundant inference cost while maintaining robust task performance.
 
 - **3D-aware Physical World Models**: building world models with a *3D Gaussian-aware tokenizer* for spatially grounded scene representation, and designing benchmarks at the level of *physical formulas* to evaluate whether models truly understand physical laws, towards [large-scale world simulation](https://arxiv.org/abs/2603.07145).
 
