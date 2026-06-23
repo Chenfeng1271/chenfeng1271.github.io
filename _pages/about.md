@@ -93,7 +93,7 @@ Selected Publications
     <strong>PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models</strong><br>
     Xianghui Wang<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup><sup>&dagger;</sup>, Wenbo Zhang, Hua Yan, Zixuan Wang, Changsheng Li, Yinjie Lei<br>
     <em>ECCV, 2026</em><br>
-    [<a href="https://inceptionwang.github.io/PolicyTrim/">Project</a>] [<a href="https://github.com/INCEPTIONwang/PolicyTrim">Code</a>]
+    [<a href="https://arxiv.org/pdf/2606.22540">Paper</a>] [<a href="https://inceptionwang.github.io/PolicyTrim/">Project</a>] [<a href="https://github.com/INCEPTIONwang/PolicyTrim">Code</a>]
   </div>
 </div>
 
