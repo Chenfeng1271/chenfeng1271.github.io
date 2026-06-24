@@ -104,6 +104,7 @@ Selected Publications
     <strong>Agentic Collaborative Cognition for Zero-Shot 3D Understanding</strong><br>
     Wenxin Wang<sup>*</sup>, Bo Zhang<sup>*</sup>, <strong>Feng Chen</strong><sup>&dagger;</sup>, Zixuan Wang, Wen Li, Changsheng Li, Yinjie Lei<br>
     <em>ECCV, 2026</em><br>
+    [<a href="https://arxiv.org/pdf/2606.24649">Paper</a>] [<a href="https://zhangbo135.github.io/agentic-collaborative-cognition/">Project</a>]
   </div>
 </div>
 
