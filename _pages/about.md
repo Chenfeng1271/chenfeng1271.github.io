@@ -235,6 +235,16 @@ Selected Publications
 **Others**
 
 <div class="publication-list__item">
+  <div class="publication-list__venue">IEEE TAFFC</div>
+  <div class="publication-list__body">
+    <strong>UGPT: Uncertain Graph Prompt Tuning for Micro-expression Recognition</strong><br>
+    Jiateng Liu, Hengcan Shi, <strong>Feng Chen</strong>, Min Liu, Yaonan Wang, Wenming Zheng<br>
+    <em>IEEE Transactions on Affective Computing, 2026</em><br>
+    [<a href="https://www.computer.org/csdl/journal/ta/5555/01/11592488/2hLQuGoLGta">Paper</a>]
+  </div>
+</div>
+
+<div class="publication-list__item">
   <div class="publication-list__venue">Information Fusion</div>
   <div class="publication-list__body">
     <strong>Balanced Cross-modal Prompt Learning and Fusion Network for Multi-modal Fake News Detection</strong><br>
