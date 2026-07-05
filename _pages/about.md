@@ -35,7 +35,7 @@ News
 - **[2026.06]** 🎉 4 papers accepted to **ECCV 2026**.
 - **[2026.06]** Our latent 3D memory for video world model is now [released](https://microsoft.github.io/LatentSpatialMemory/).
 - **[2026.05]** Our **A<sup>3</sup>**, a dynamic execution horizon method for VLA, is now [released](https://inceptionwang.github.io/A3/).
-- **[2026.05]** Our **FlashAR**, a post-training acceleration for AR image generationm, is now [released](https://lxazjk.github.io/FlashAR/).
+- **[2026.05]** Our **FlashAR**, a post-training acceleration for AR image generation, is now [released](https://lxazjk.github.io/FlashAR/).
 - **[2026.04]** 🎉 1 paper accepted to **IEEE TAFFC**.
 - **[2026.04]** 🎉 2 papers accepted to **ACL 2026**.
 - **[2026.03]** 🎉 4 papers accepted to **CVPR 2026**.
