@@ -21,9 +21,9 @@ My research focuses on developing **efficient and scalable AI algorithms** for m
 
 Currently, my research focuses on **embodied learning**, with two main directions:
 
-- **Efficient Long-horizon VLA/WAM**: improving *policy efficiency* and *computation efficiency* of VLA/WAM models to complete tasks with fewer action steps and over longer horizons, reducing redundant inference cost while maintaining robust task performance.
+- **Efficient Long-horizon VLA/WAM**: improving ***policy efficiency*** and ***computation efficiency*** of VLA/WAM models to complete tasks with fewer action steps and over longer horizons, reducing redundant inference cost while maintaining robust task performance.
 
-- **3D-aware Physical World Models**: building world models with a *3D Gaussian-aware tokenizer* for spatially grounded scene representation, and designing benchmarks at the level of *physical formulas*  and *objective shared reality modeling* to evaluate whether models truly understand physical laws in intrinsic world state.
+- **3D-aware Physical World Models**: building world models with a ***3D Gaussian-aware tokenizer*** for spatially grounded scene representation, and designing benchmarks at the level of ***physical formulas*** and ***objective shared reality modeling*** to evaluate whether models truly understand physical laws in intrinsic world state.
 
 **We are looking for highly self-motivated Master, PhD students and interns. If you are interested in joining our [ZipLab](https://ziplab.co/people/) team, please feel free to contact us with your CV as the [post](https://ziplab.co/uploads/zip-lab-poster-full.html)!**
 
