@@ -7,6 +7,14 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.research-keyword {
+  color: #4da3ff;
+  font-style: italic;
+  font-weight: 700;
+}
+</style>
+
 **I am actively looking for industry positions in MLLM pretraining, VLA, World Model, and related areas. Feel free to reach out via [email](mailto:chenfeng1271@gmail.com) if you are interested!**
 
 Hi 👋, I am a final-year Ph.D. candidate  at the University of Adelaide, supervised by
@@ -21,9 +29,9 @@ My research focuses on developing **efficient and scalable AI algorithms** for m
 
 Currently, my research focuses on **embodied learning**, with two main directions:
 
-- **Efficient Long-horizon VLA/WAM**: improving ***policy efficiency*** and ***computation efficiency*** of VLA/WAM models to complete tasks with fewer action steps and over longer horizons, reducing redundant inference cost while maintaining robust task performance.
+- **Efficient Long-horizon VLA/WAM**: improving <span class="research-keyword">policy efficiency</span> and <span class="research-keyword">computation efficiency</span> of VLA/WAM models to complete tasks with fewer action steps and over longer horizons, reducing redundant inference cost while maintaining robust task performance.
 
-- **3D-aware Physical World Models**: building world models with a ***3D Gaussian-aware tokenizer*** for spatially grounded scene representation, and designing benchmarks at the level of ***physical formulas*** and ***objective shared reality modeling*** to evaluate whether models truly understand physical laws in intrinsic world state.
+- **3D-aware Physical World Models**: building world models with a <span class="research-keyword">3D Gaussian-aware tokenizer</span> for spatially grounded scene representation, and designing benchmarks at the level of <span class="research-keyword">physical formulas</span> and <span class="research-keyword">objective shared reality modeling</span> to evaluate whether models truly understand physical laws in intrinsic world state.
 
 **We are looking for highly self-motivated Master, PhD students and interns. If you are interested in joining our [ZipLab](https://ziplab.co/people/) team, please feel free to contact us with your CV as the [post](https://ziplab.co/uploads/zip-lab-poster-full.html)!**
 
