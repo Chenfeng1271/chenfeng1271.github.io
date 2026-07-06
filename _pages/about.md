@@ -9,9 +9,8 @@ redirect_from:
 
 <style>
 .research-keyword {
-  color: #4da3ff;
+  color: #2f8fb3;
   font-style: italic;
-  font-weight: 700;
 }
 </style>
 
