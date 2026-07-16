@@ -12,6 +12,15 @@ redirect_from:
   color: #2f8fb3;
   font-style: italic;
 }
+
+.recruiting-note {
+  color: #c62828;
+  font-weight: 700;
+}
+
+.recruiting-note a {
+  color: inherit;
+}
 </style>
 
 **I am actively looking for industry positions in MLLM pretraining, VLA, World Model, and related areas. Feel free to reach out via [email](mailto:chenfeng1271@gmail.com) if you are interested!**
@@ -32,7 +41,7 @@ Currently, my research focuses on **embodied learning**, with two main direction
 
 - **3D-aware Physical World Models**: building world models with a <span class="research-keyword">3D Gaussian-aware tokenizer</span> for spatially grounded scene representation, and designing benchmarks at the level of <span class="research-keyword">physical formulas</span> and <span class="research-keyword">objective shared reality modeling</span> to evaluate whether models truly understand physical laws in intrinsic world state.
 
-**We are looking for highly self-motivated Master, PhD students and interns. If you are interested in joining our [ZipLab](https://ziplab.co/people/) team, please feel free to contact us with your CV as the [post](https://ziplab.co/uploads/zip-lab-poster-full.html)!**
+<span class="recruiting-note">We are looking for highly self-motivated Master, PhD students and interns. If you are interested in joining our <a href="https://ziplab.co/people/">ZipLab</a> team, please feel free to contact us with your CV as the <a href="https://ziplab.co/uploads/zip-lab-poster-full.html">post</a>!</span>
 
 
 News
