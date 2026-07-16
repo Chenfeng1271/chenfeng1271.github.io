@@ -46,7 +46,7 @@ Currently, my research focuses on **embodied learning**, with two main direction
 
 News
 ------
-- **[2026.07]** I will join Tencent Hunyuan as an intern, focusing on long-horizon RL.
+- **[2026.07]** I will join **Tencent Hunyuan** as an intern, focusing on long-horizon agent RL.
 - **[2026.06]** Our self-evolving multi-agent framework for 3D understanding is now [released](https://zhangbo135.github.io/agentic-collaborative-cognition/).
 - **[2026.06]** Our **PolicyTrim**, a policy acceleration framework for VLA, is now [released](https://inceptionwang.github.io/PolicyTrim/).
 - **[2026.06]** 🎉 4 papers accepted to **ECCV 2026**.
