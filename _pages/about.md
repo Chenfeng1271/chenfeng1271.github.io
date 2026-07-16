@@ -66,7 +66,7 @@ Work Experience
 Preprint
 ------
 
-<p><sup>*</sup> Equal contribution. <sup>&dagger;</sup> Project lead.</p>
+<p><sup>*</sup> Equal contribution. <sup>&dagger;</sup> Project lead. <sup>&ddagger;</sup> Corresponding author.</p>
 
 <div class="publication-list__item">
   <div class="publication-list__venue">arXiv</div>
@@ -83,7 +83,7 @@ Preprint
   <div class="publication-list__venue">arXiv</div>
   <div class="publication-list__body">
     <strong>FlashAR: Efficient Post-Training Acceleration for Autoregressive Image Generation</strong><br>
-    Junkang Zhou<sup>*</sup>, Yefei He<sup>*</sup>, <strong>Feng Chen</strong><sup>*&dagger;</sup>, Weijie Wang, Bohan Zhuang &nbsp;<br>
+    Junkang Zhou<sup>*</sup>, Yefei He<sup>*&dagger;</sup>, <strong>Feng Chen</strong><sup>*&dagger;</sup>, Weijie Wang, Bohan Zhuang &nbsp;<br>
     <em>arXiv preprint, 2026</em><br>
     [<a href="https://arxiv.org/pdf/2605.09430">Paper</a>] [<a href="https://lxazjk.github.io/FlashAR/">Project</a>] [<a href="https://github.com/lxazjk/LlamaGen-FlashAR">Code</a>]
   </div>
