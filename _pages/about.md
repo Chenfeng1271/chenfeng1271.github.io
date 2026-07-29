@@ -57,7 +57,6 @@ News
 
 Work Experience
 ------
-- **Research Intern**, Tencent Hunyuan, Shenzhen (July 2026 –)
 - **Research Intern**, TikTok, Sydney (Oct 2024 – Apr 2025)
 - **Research Intern**, Ant Group, Hangzhou (Sep 2022 – Apr 2024)
 
