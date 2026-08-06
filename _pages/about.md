@@ -69,6 +69,16 @@ Preprint
 <div class="publication-list__item">
   <div class="publication-list__venue">arXiv</div>
   <div class="publication-list__body">
+    <strong>Evidence-Driven Dynamic Visual Selector for Efficient Long Video Understanding</strong><br>
+    Bo Zhang<sup>*</sup>, Wenxin Wang<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Zhihao Zhang, Zixuan Wang, Changsheng Li, Yinjie Lei<sup>&dagger;</sup><br>
+    <em>arXiv preprint, 2026</em><br>
+    [<a href="">Paper</a>]
+  </div>
+</div>
+
+<div class="publication-list__item">
+  <div class="publication-list__venue">arXiv</div>
+  <div class="publication-list__body">
     <strong>Latent Spatial Memory for Video World Models</strong><br>
     Weijie Wang, Haoyu Zhao, Yifan Yang, <strong>Feng Chen</strong>, Zeyu Zhang, Yefei He, Zicheng Duan, Donny Y. Chen, Yuqing Yang, Bohan Zhuang<br>
     <em>arXiv preprint, 2026</em><br>
