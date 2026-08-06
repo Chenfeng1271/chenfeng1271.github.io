@@ -72,7 +72,7 @@ Preprint
     <strong>Evidence-Driven Dynamic Visual Selector for Efficient Long Video Understanding</strong><br>
     Bo Zhang<sup>*</sup>, Wenxin Wang<sup>*</sup>, <strong>Feng Chen</strong><sup>*</sup>, Zhihao Zhang, Zixuan Wang, Changsheng Li, Yinjie Lei<br>
     <em>arXiv preprint, 2026</em><br>
-    [<a href="">Paper</a>]
+    [<a href="">Paper</a>] [<a href="https://zhangbo135.github.io/EviSelect/">Project</a>] [<a href="https://zhangbo135.github.io/EviSelect/">Code</a>]
   </div>
 </div>
 
