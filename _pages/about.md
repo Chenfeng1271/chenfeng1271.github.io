@@ -46,7 +46,7 @@ Currently, my research focuses on **embodied learning**, with two main direction
 
 News
 ------
-- **[2026.08]** Our EviSelect, a dynamic visual selector for long-form video understanding, will be released.
+- **[2026.08]** Our EviSelect for long-form video understanding will be released.
 - **[2026.07]** 🎉 Our FlashAR is adopted by [Xiaomi-Robotics-U0](https://arxiv.org/pdf/2607.11643), achieving an 83x speedup.
 - **[2026.06]** 🎉 4 papers accepted to **ECCV 2026**.
 - **[2026.04]** 🎉 1 paper accepted to **IEEE TAFFC**.
