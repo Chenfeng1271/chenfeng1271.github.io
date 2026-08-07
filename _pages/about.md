@@ -31,9 +31,9 @@ Hi 👋, I am a final-year Ph.D. candidate  at the University of Adelaide, super
 
 My research focuses on developing **efficient and scalable AI algorithms** for multimodal understanding and image generation. Previously, I have worked on the following topics:
 
-- **Long Context Efficiency of MLLMs** across inference, training, and post-training, including  [ZipVL](https://arxiv.org/abs/2410.08584), [OmniSparse](https://arxiv.org/abs/2511.12201), and [Sparsity Forcing](https://arxiv.org/abs/2504.18579).
+- **Long Context Efficiency of MLLMs** across inference, pretraining, and post-training, including  [ZipVL](https://arxiv.org/abs/2410.08584), [OmniSparse](https://arxiv.org/abs/2511.12201), and [Sparsity Forcing](https://arxiv.org/abs/2504.18579).
 
-- **Efficient Autoregressive Image Generation** with speculative decoding, parallel pretrain and post-training distillation, including [ZipAR](https://arxiv.org/abs/2412.04062), [NAR](https://yuanyu0.github.io/nar/) and [FlashAR](https://lxazjk.github.io/FlashAR/).
+- **Efficient Autoregressive Image Generation** with speculative decoding, parallel pretraining and post-training distillation, including [ZipAR](https://arxiv.org/abs/2412.04062), [NAR](https://yuanyu0.github.io/nar/) and [FlashAR](https://lxazjk.github.io/FlashAR/).
 
 Currently, my research focuses on **embodied learning**, with two main directions:
 
