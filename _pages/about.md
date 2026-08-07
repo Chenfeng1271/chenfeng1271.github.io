@@ -33,11 +33,11 @@ My research focuses on developing **efficient and scalable AI algorithms** for m
 
 - **Long Context Efficiency of MLLMs** covering inference, pretraining, and post-training, including  [ZipVL](https://arxiv.org/abs/2410.08584), [OmniSparse](https://arxiv.org/abs/2511.12201), and [Sparsity Forcing](https://arxiv.org/abs/2504.18579).
 
-- **Efficient Autoregressive Image Generation** with speculative decoding, parallel pretraining and post-training distillation, including [ZipAR](https://arxiv.org/abs/2412.04062), [NAR](https://yuanyu0.github.io/nar/) and [FlashAR](https://lxazjk.github.io/FlashAR/).
+- **Long Context Decoding of Image Generation** with speculative decoding, parallel pretraining and post-training distillation, including [ZipAR](https://arxiv.org/abs/2412.04062), [NAR](https://yuanyu0.github.io/nar/) and [FlashAR](https://lxazjk.github.io/FlashAR/).
 
 Currently, my research focuses on **embodied learning**, with two main directions:
 
-- **Efficient Long-horizon VLA/WAM**: improving <span class="research-keyword">policy efficiency</span> and <span class="research-keyword">computation efficiency</span> of VLA/WAM models to complete tasks with fewer action steps and over longer horizons, reducing redundant inference cost while maintaining robust task performance.
+- **Long-horizon Decision Efficiency of VLA/WAM**: improving <span class="research-keyword">policy efficiency</span> and <span class="research-keyword">computation efficiency</span> of VLA/WAM models to complete tasks with fewer action steps and over longer horizons, reducing redundant inference cost while maintaining robust task performance.
 
 - **World State in World Models**: studying world models through a progressive pipeline from <span class="research-keyword">physical video generation</span> and <span class="research-keyword">physical system modeling</span> to <span class="research-keyword">world state evolution</span> and <span class="research-keyword">next-state prediction</span>, aiming to model physical and causal world states for more faithful world simulation.
 
