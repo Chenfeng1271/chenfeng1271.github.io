@@ -46,6 +46,7 @@ Currently, my research focuses on **embodied learning**, with two main direction
 
 News
 ------
+- **[2026.08]** I joined Tencent Hunyuan as a research intern, focusing on long-horizon agent RL.
 - **[2026.08]** Our EviSelect for long-form video understanding is [released](https://zhangbo135.github.io/EviSelect/).
 - **[2026.07]** 🎉 Our FlashAR is adopted by [Xiaomi-Robotics-U0](https://arxiv.org/pdf/2607.11643), achieving an 83x speedup.
 - **[2026.06]** 🎉 4 papers accepted to **ECCV 2026**.
@@ -57,6 +58,7 @@ News
 
 Work Experience
 ------
+- **Research Intern**, Tencent Hunyuan, Shenzhen (Aug 2026 –)
 - **Research Intern**, TikTok, Sydney (Oct 2024 – Apr 2025)
 - **Research Intern**, Ant Group, Hangzhou (Sep 2022 – Apr 2024)
 
