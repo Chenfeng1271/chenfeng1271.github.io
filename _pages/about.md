@@ -76,6 +76,26 @@ Preprint
 <div class="publication-list__item">
   <div class="publication-list__venue">arXiv</div>
   <div class="publication-list__body">
+    <strong>ZipTok3D: High-Fidelity 3D Tokenization with Compact Token Prefixes</strong><br>
+    Mingda Lin, Weijie Wang, Zeyu Zhang, Bowen Cui, Yefei He, Haoyu Zhao, Yuanyu He, Donny Y. Chen, <span class="author-me">Feng Chen</span><sup>&ddagger;</sup>, Bohan Zhuang<sup>&ddagger;</sup><br>
+    <em>arXiv preprint, 2026</em><br>
+    [<a href="">Paper</a>]
+  </div>
+</div>
+
+<div class="publication-list__item">
+  <div class="publication-list__venue">arXiv</div>
+  <div class="publication-list__body">
+    <strong>Block3D: Efficient Text-to-3D Generation via Block-wise Diffusion</strong><br>
+    Bowen Cui, Weijie Wang, Zeyu Zhang, Yefei He, Mingda Lin, Haoyu Zhao, Yuanyu He, Donny Y. Chen, <span class="author-me">Feng Chen</span><sup>&ddagger;</sup>, Bohan Zhuang<sup>&ddagger;</sup><br>
+    <em>arXiv preprint, 2026</em><br>
+    [<a href="">Paper</a>] [<a href="https://alexandertsui.github.io/block3d/">Project</a>]
+  </div>
+</div>
+
+<div class="publication-list__item">
+  <div class="publication-list__venue">arXiv</div>
+  <div class="publication-list__body">
     <strong>Evidence-Driven Dynamic Visual Selector for Efficient Long Video Understanding</strong><br>
     Bo Zhang<sup>*</sup>, Wenxin Wang<sup>*</sup>, <span class="author-me">Feng Chen</span><sup>&dagger;</sup>, Zhihao Zhang, Zixuan Wang, Changsheng Li, Yinjie Lei<br>
     <em>arXiv preprint, 2026</em><br>
