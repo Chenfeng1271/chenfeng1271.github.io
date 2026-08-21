@@ -89,7 +89,7 @@ Preprint
     <strong>Block3D: Efficient Text-to-3D Generation via Block-wise Diffusion</strong><br>
     Bowen Cui, Weijie Wang, Zeyu Zhang, Yefei He, Mingda Lin, Haoyu Zhao, Yuanyu He, Donny Y. Chen, <span class="author-me">Feng Chen</span><sup>&ddagger;</sup>, Bohan Zhuang<sup>&ddagger;</sup><br>
     <em>arXiv preprint, 2026</em><br>
-    [<a href="">Paper</a>] [<a href="https://alexandertsui.github.io/block3d/">Project</a>]
+    [<a href="https://arxiv.org/pdf/2608.19567">Paper</a>] [<a href="https://alexandertsui.github.io/block3d/">Project</a>]
   </div>
 </div>
 
