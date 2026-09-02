@@ -75,8 +75,18 @@ Preprint
 <div class="publication-list__item">
   <div class="publication-list__venue">arXiv</div>
   <div class="publication-list__body">
+    <strong>Physically Plausible Video Generation via Visual-Semantic Chain-of-Events Conditioning</strong><br>
+    Zixuan Wang, Yixin Hu, Wen Li, <span class="author-me">Feng Chen</span>, Yan Liu, Duo Peng, Yinjie Lei<br>
+    <em>arXiv preprint, 2026</em><br>
+    [<a href="https://arxiv.org/pdf/2609.00656">Paper</a>]
+  </div>
+</div>
+
+<div class="publication-list__item">
+  <div class="publication-list__venue">arXiv</div>
+  <div class="publication-list__body">
     <strong>ZipTok3D: High-Fidelity 3D Tokenization with Compact Token Prefixes</strong><br>
-    Mingda Lin, Weijie Wang, Zeyu Zhang, Bowen Cui, Yefei He, Haoyu Zhao, Yuanyu He, Donny Y. Chen, <span class="author-me">Feng Chen</span><sup>&ddagger;</sup>, Bohan Zhuang<sup>&ddagger;</sup><br>
+    Mingda Lin, Weijie Wang, Zeyu Zhang, Bowen Cui, Yefei He, Haoyu Zhao, Yuanyu He, Donny Y. Chen, <span class="author-me">Feng Chen</span><sup>&ddagger;</sup>, Bohan Zhuang<br>
     <em>arXiv preprint, 2026</em><br>
     [<a href="">Paper</a>]
   </div>
@@ -86,9 +96,9 @@ Preprint
   <div class="publication-list__venue">arXiv</div>
   <div class="publication-list__body">
     <strong>Block3D: Efficient Text-to-3D Generation via Block-wise Diffusion</strong><br>
-    Bowen Cui, Weijie Wang, Zeyu Zhang, Yefei He, Mingda Lin, Haoyu Zhao, Yuanyu He, Donny Y. Chen, <span class="author-me">Feng Chen</span><sup>&ddagger;</sup>, Bohan Zhuang<sup>&ddagger;</sup><br>
+    Bowen Cui, Weijie Wang, Zeyu Zhang, Yefei He, Mingda Lin, Haoyu Zhao, Yuanyu He, Donny Y. Chen, <span class="author-me">Feng Chen</span><sup>&ddagger;</sup>, Bohan Zhuang<br>
     <em>arXiv preprint, 2026</em><br>
-    [<a href="https://arxiv.org/pdf/2608.19567">Paper</a>] [<a href="https://alexandertsui.github.io/block3d/">Project</a>]
+    [<a href="https://arxiv.org/pdf/2608.19567">Paper</a>] [<a href="https://alexandertsui.github.io/block3d/">Project</a>] [<a href="https://github.com/ziplab/Block3D">Code</a>] [<a href="https://huggingface.co/papers/2608.19567">Hugging Face</a>]
   </div>
 </div>
 
