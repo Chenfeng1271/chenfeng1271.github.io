@@ -88,7 +88,7 @@ Preprint
     <strong>ZipTok3D: High-Fidelity 3D Tokenization with Compact Token Prefixes</strong><br>
     Mingda Lin, Weijie Wang, Zeyu Zhang, Bowen Cui, Yefei He, Haoyu Zhao, Yuanyu He, Donny Y. Chen, <span class="author-me">Feng Chen</span><sup>&ddagger;</sup>, Bohan Zhuang<br>
     <em>arXiv preprint, 2026</em><br>
-    [<a href="">Paper</a>]
+    [<a href="https://forthloth.github.io/ziptok3d/paper/ArXiv_ZipTok3D.pdf">Paper</a>] [<a href="https://forthloth.github.io/ziptok3d/">Project</a>] [<a href="https://github.com/ziplab/ZipTok3D">Code</a>]
   </div>
 </div>
 
