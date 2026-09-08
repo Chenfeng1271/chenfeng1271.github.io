@@ -38,7 +38,7 @@ My research focuses on developing **efficient and scalable AI algorithms** for m
 
 - **Long Context Prefilling Efficiency of MLLMs** covering inference, pretraining, post-training, and test-time scaling, including  [ZipVL](https://arxiv.org/abs/2410.08584), [OmniSparse](https://arxiv.org/abs/2511.12201), [Sparsity Forcing](https://arxiv.org/abs/2504.18579), and [EviSelect](https://zhangbo135.github.io/EviSelect/).
 
-- **Long Context Decoding Efficiency of Image Generation** with speculative decoding, parallel pretraining and post-training distillation, including [ZipAR](https://arxiv.org/abs/2412.04062), [NAR](https://yuanyu0.github.io/nar/) and [FlashAR](https://lxazjk.github.io/FlashAR/).
+- **Long Context Decoding Efficiency of Visual Generation** with speculative decoding, parallel pretraining and post-training distillation, including [ZipAR](https://arxiv.org/abs/2412.04062), [NAR](https://yuanyu0.github.io/nar/) and [FlashAR](https://lxazjk.github.io/FlashAR/).
 
 Currently, my research focuses on **embodied learning**, with two main directions:
 
