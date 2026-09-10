@@ -401,6 +401,7 @@ Selected Publications
 Professional Activities
 ------
 - **Reviewer**: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, IJCV
+- **Area Chair**: NeurIPS
 
 
 Awards
