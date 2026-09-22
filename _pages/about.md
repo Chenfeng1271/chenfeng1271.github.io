@@ -75,6 +75,16 @@ Preprint
 <div class="publication-list__item">
   <div class="publication-list__venue">arXiv</div>
   <div class="publication-list__body">
+    <strong>SupportCal: Label-Free Calibration of Post-Trained LLMs via Reference Support and Corroboration</strong><br>
+    Linhan Luo, Lequan Lin, Dai Shi, <span class="author-me">Feng Chen</span>, Jos&eacute; Miguel Hern&aacute;ndez-Lobato, Junbin Gao<br>
+    <em>arXiv preprint, 2026</em><br>
+    [<a href="https://arxiv.org/abs/2609.24303">Paper</a>]
+  </div>
+</div>
+
+<div class="publication-list__item">
+  <div class="publication-list__venue">arXiv</div>
+  <div class="publication-list__body">
     <strong>Physically Plausible Video Generation via Visual-Semantic Chain-of-Events Conditioning</strong><br>
     Zixuan Wang, Yixin Hu, Wen Li, <span class="author-me">Feng Chen</span>, Yan Liu, Duo Peng, Yinjie Lei<br>
     <em>arXiv preprint, 2026</em><br>
