@@ -73,6 +73,39 @@ Preprint
 <p><sup>*</sup> Equal contribution. <sup>&dagger;</sup> Project lead. <sup>&ddagger;</sup> Corresponding author.</p>
 
 <div class="publication-list__item">
+  <div class="publication-list__venue">Preprint</div>
+  <div class="publication-list__body">
+    <strong>MixTok: Adaptive Visual Tokenization with Global 1D Tokens and Sparse 2D Refinement</strong><br>
+    Chenge Li, Yefei He, Xinyu Liu, <span class="author-me">Feng Chen</span><sup>&dagger;</sup>, Hong Zhou, Bohan Zhuang
+  </div>
+</div>
+
+<div class="publication-list__item">
+  <div class="publication-list__venue">Preprint</div>
+  <div class="publication-list__body">
+    <strong>Self-Confirming Superposition Traps in Reinforcement Learning</strong><br>
+    Dai Shi, Andi Han, <span class="author-me">Feng Chen</span>, Yiqun Duan, Junbin Gao, Jos&eacute; Miguel Hern&aacute;ndez-Lobato
+  </div>
+</div>
+
+<div class="publication-list__item">
+  <div class="publication-list__venue">Preprint</div>
+  <div class="publication-list__body">
+    <strong>ActCache: Action-Guided Cross-Chunk KV Cache Reuse for Interactive World Models</strong><br>
+    Yuanyu He<sup>*</sup>, <span class="author-me">Feng Chen</span><sup>*</sup>, Shaoxuan He, Weijie Wang, Jiasheng Tang, Fan Wang, Yefei He
+  </div>
+</div>
+
+<div class="publication-list__item">
+  <div class="publication-list__venue">Preprint</div>
+  <div class="publication-list__body">
+    <strong>HLA-WM: Hybrid Linear Attention for Long-Horizon Video World Models</strong><br>
+    Zhuokun Chen, <span class="author-me">Feng Chen</span>, Xi Lin, Xiyu Wu, Jiahao He, Jianfei Cai, Bohan Zhuang<br>
+    [<a href="https://caesarhhh.github.io/hla-wm/">Project</a>]
+  </div>
+</div>
+
+<div class="publication-list__item">
   <div class="publication-list__venue">arXiv</div>
   <div class="publication-list__body">
     <strong>SupportCal: Label-Free Calibration of Post-Trained LLMs via Reference Support and Corroboration</strong><br>
