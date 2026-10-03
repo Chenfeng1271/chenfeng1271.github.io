@@ -81,10 +81,11 @@ Preprint
 </div>
 
 <div class="publication-list__item">
-  <div class="publication-list__venue">Preprint</div>
+  <div class="publication-list__venue">arXiv</div>
   <div class="publication-list__body">
     <strong>Self-Confirming Superposition Traps in Reinforcement Learning</strong><br>
     Dai Shi, Andi Han, <span class="author-me">Feng Chen</span>, Yiqun Duan, Junbin Gao, Jos&eacute; Miguel Hern&aacute;ndez-Lobato<br>
+    <em>arXiv preprint, 2026</em><br>
     [<a href="https://arxiv.org/pdf/2609.32966">Paper</a>] [<a href="https://anonymous.4open.science/r/self-confirming-superposition-traps-SCST/README.md">Code</a>]
   </div>
 </div>
