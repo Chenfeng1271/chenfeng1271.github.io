@@ -84,7 +84,8 @@ Preprint
   <div class="publication-list__venue">Preprint</div>
   <div class="publication-list__body">
     <strong>Self-Confirming Superposition Traps in Reinforcement Learning</strong><br>
-    Dai Shi, Andi Han, <span class="author-me">Feng Chen</span>, Yiqun Duan, Junbin Gao, Jos&eacute; Miguel Hern&aacute;ndez-Lobato
+    Dai Shi, Andi Han, <span class="author-me">Feng Chen</span>, Yiqun Duan, Junbin Gao, Jos&eacute; Miguel Hern&aacute;ndez-Lobato<br>
+    [<a href="https://arxiv.org/pdf/2609.32966">Paper</a>] [<a href="https://anonymous.4open.science/r/self-confirming-superposition-traps-SCST/README.md">Code</a>]
   </div>
 </div>
 
@@ -102,16 +103,6 @@ Preprint
     <strong>HLA-WM: Hybrid Linear Attention for Long-Horizon Video World Models</strong><br>
     Zhuokun Chen, <span class="author-me">Feng Chen</span>, Xi Lin, Xiyu Wu, Jiahao He, Jianfei Cai, Bohan Zhuang<br>
     [<a href="https://caesarhhh.github.io/hla-wm/">Project</a>]
-  </div>
-</div>
-
-<div class="publication-list__item">
-  <div class="publication-list__venue">arXiv</div>
-  <div class="publication-list__body">
-    <strong>SupportCal: Label-Free Calibration of Post-Trained LLMs via Reference Support and Corroboration</strong><br>
-    Linhan Luo, Lequan Lin, Dai Shi, <span class="author-me">Feng Chen</span>, Jos&eacute; Miguel Hern&aacute;ndez-Lobato, Junbin Gao<br>
-    <em>arXiv preprint, 2026</em><br>
-    [<a href="https://arxiv.org/abs/2609.24303">Paper</a>]
   </div>
 </div>
 
