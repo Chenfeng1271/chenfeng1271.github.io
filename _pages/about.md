@@ -72,6 +72,24 @@ Preprint
 
 <p><sup>*</sup> Equal contribution. <sup>&dagger;</sup> Project lead. <sup>&ddagger;</sup> Corresponding author.</p>
 
+<!--
+<div class="publication-list__item">
+  <div class="publication-list__venue">Preprint</div>
+  <div class="publication-list__body">
+    <strong>Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation</strong><br>
+    Weijie Wang, Haomin Zhang, Ye Li, Akide Liu, Haoyu Zhao, Yefei He, Donny Y. Chen, <span class="author-me">Feng Chen</span><sup>&ddagger;</sup>, Bohan Zhuang
+  </div>
+</div>
+
+<div class="publication-list__item">
+  <div class="publication-list__venue">Preprint</div>
+  <div class="publication-list__body">
+    <strong>MixTok: Adaptive Visual Tokenization with Global 1D Tokens and Sparse 2D Refinement</strong><br>
+    Chenge Li, Yefei He, Xinyu Liu, <span class="author-me">Feng Chen</span><sup>&dagger;</sup>, Hong Zhou, Bohan Zhuang
+  </div>
+</div>
+-->
+
 <div class="publication-list__item">
   <div class="publication-list__venue">arXiv</div>
   <div class="publication-list__body">
@@ -81,6 +99,16 @@ Preprint
     [<a href="https://arxiv.org/pdf/2609.32966">Paper</a>] [<a href="https://anonymous.4open.science/r/self-confirming-superposition-traps-SCST/README.md">Code</a>]
   </div>
 </div>
+
+<!--
+<div class="publication-list__item">
+  <div class="publication-list__venue">Preprint</div>
+  <div class="publication-list__body">
+    <strong>ActCache: Action-Guided Cross-Chunk KV Cache Reuse for Interactive World Models</strong><br>
+    Yuanyu He<sup>*</sup>, <span class="author-me">Feng Chen</span><sup>*</sup>, Shaoxuan He, Weijie Wang, Jiasheng Tang, Fan Wang, Yefei He
+  </div>
+</div>
+-->
 
 <div class="publication-list__item">
   <div class="publication-list__venue">arXiv</div>
