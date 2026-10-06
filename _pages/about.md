@@ -111,7 +111,7 @@ Preprint
   <div class="publication-list__body">
     <strong>HLA-WM: Hybrid Linear Attention for Long-Horizon Video World Models</strong><br>
     Zhuokun Chen, <span class="author-me">Feng Chen</span>, Xi Lin, Xiyu Wu, Jiahao He, Jianfei Cai, Bohan Zhuang<br>
-    [<a href="https://arxiv.org/pdf/2610.05739v1">Paper</a>] [<a href="https://caesarhhh.github.io/hla-wm/">Project</a>]
+    [<a href="https://arxiv.org/pdf/2610.05739v1">Paper</a>] [<a href="https://caesarhhh.github.io/hla-wm/">Project</a>] [<a href="https://github.com/Caesarhhh/HLA_">Code</a>]
   </div>
 </div>
 
