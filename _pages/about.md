@@ -80,15 +80,17 @@ Preprint
     Weijie Wang, Haomin Zhang, Ye Li, Akide Liu, Haoyu Zhao, Yefei He, Donny Y. Chen, <span class="author-me">Feng Chen</span><sup>&ddagger;</sup>, Bohan Zhuang
   </div>
 </div>
+-->
 
 <div class="publication-list__item">
-  <div class="publication-list__venue">Preprint</div>
+  <div class="publication-list__venue">arXiv</div>
   <div class="publication-list__body">
     <strong>MixTok: Adaptive Visual Tokenization with Global 1D Tokens and Sparse 2D Refinement</strong><br>
-    Chenge Li, Yefei He, Xinyu Liu, <span class="author-me">Feng Chen</span><sup>&dagger;</sup>, Hong Zhou, Bohan Zhuang
+    Chenge Li<sup>*</sup>, Yefei He<sup>*&dagger;</sup>, Xinyu Liu, <span class="author-me">Feng Chen</span><sup>&dagger;</sup>, Hong Zhou, Bohan Zhuang<br>
+    <em>arXiv preprint, 2026</em><br>
+    [<a href="https://arxiv.org/pdf/2610.13181">Paper</a>] [<a href="https://lcglichenge.github.io/MixTok-page/">Project</a>] [<a href="https://github.com/LCGLiChenge/MixTok">Code</a>]
   </div>
 </div>
--->
 
 <div class="publication-list__item">
   <div class="publication-list__venue">arXiv</div>
