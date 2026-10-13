@@ -31,8 +31,7 @@ redirect_from:
 **I am actively looking for industry and postdoctoral positions in MLLM pretraining, VLA, World Model, and related areas. Feel free to reach out via [email](mailto:chenfeng1271@gmail.com) if you are interested!**
 
 Hi 👋, I am a final-year Ph.D. candidate  at the University of Adelaide, supervised by
-[A/Prof. Bohan Zhuang](https://ziplab.co/people/) and
-[A/Prof. Qi Wu](https://scholar.google.com/citations?user=aKXe1FEAAAAJ&hl=en).
+[A/Prof. Bohan Zhuang](https://ziplab.co/people/).
 
 My research focuses on developing **efficient and scalable AI algorithms** for multimodal understanding and image generation. Previously, I have worked on the following topics:
 
