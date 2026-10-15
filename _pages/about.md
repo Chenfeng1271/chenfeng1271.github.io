@@ -69,15 +69,15 @@ Preprint
 
 <p><sup>*</sup> Equal contribution. <sup>&dagger;</sup> Project lead. <sup>&ddagger;</sup> Corresponding author.</p>
 
-<!--
 <div class="publication-list__item">
-  <div class="publication-list__venue">Preprint</div>
+  <div class="publication-list__venue">arXiv</div>
   <div class="publication-list__body">
     <strong>Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation</strong><br>
-    Weijie Wang, Haomin Zhang, Ye Li, Akide Liu, Haoyu Zhao, Yefei He, Donny Y. Chen, <span class="author-me">Feng Chen</span><sup>&ddagger;</sup>, Bohan Zhuang
+    Weijie Wang<sup>*</sup>, Haomin Zhang<sup>*</sup>, Ye Li<sup>*</sup>, Akide Liu, Zeyu Zhang, Haoyu Zhao, Yefei He, Donny Y. Chen, <span class="author-me">Feng Chen</span>, Bohan Zhuang<br>
+    <em>arXiv preprint, 2026</em><br>
+    [<a href="https://arxiv.org/abs/2610.20571">Paper</a>] [<a href="https://lhmd.top/atas/">Project &amp; Demo</a>] [<a href="https://github.com/ziplab/ATAS">Code</a>] [<a href="https://huggingface.co/papers/2610.20571">Hugging Face</a>]
   </div>
 </div>
--->
 
 <div class="publication-list__item">
   <div class="publication-list__venue">arXiv</div>
