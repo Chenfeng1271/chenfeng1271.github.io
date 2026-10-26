@@ -71,6 +71,14 @@ Preprint
 <p><sup>*</sup> Equal contribution. <sup>&dagger;</sup> Project lead. <sup>&ddagger;</sup> Corresponding author.</p>
 
 <div class="publication-list__item">
+  <div class="publication-list__venue">Preprint</div>
+  <div class="publication-list__body">
+    <strong>History Forcing: Distilling History-Dependent Continuations for Long-Horizon Video World Models</strong><br>
+    Hangyi Kuang<sup>*</sup>, Chengzhi Wang<sup>*</sup>, Yefei He, Weijie Wang, Yuke Zhao, Zisu Huang, Yifan Yang, Xiaoxuan He<sup>&dagger;</sup>, <span class="author-me">Feng Chen</span><sup>&dagger;</sup>, Bohan Zhuang
+  </div>
+</div>
+
+<div class="publication-list__item">
   <div class="publication-list__venue">arXiv</div>
   <div class="publication-list__body">
     <strong>Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation</strong><br>
