@@ -74,7 +74,8 @@ Preprint
   <div class="publication-list__venue">Preprint</div>
   <div class="publication-list__body">
     <strong>History Forcing: Distilling History-Dependent Continuations for Long-Horizon Video World Models</strong><br>
-    Hangyi Kuang<sup>*</sup>, Chengzhi Wang<sup>*</sup>, Yefei He, Weijie Wang, Yuke Zhao, Zisu Huang, Yifan Yang, Xiaoxuan He<sup>&dagger;</sup>, <span class="author-me">Feng Chen</span><sup>&dagger;</sup>, Bohan Zhuang
+    Hangyi Kuang<sup>*</sup>, Chengzhi Wang<sup>*</sup>, Yefei He, Weijie Wang, Yuke Zhao, Zisu Huang, Yifan Yang, Xiaoxuan He<sup>&dagger;</sup>, <span class="author-me">Feng Chen</span><sup>&dagger;</sup>, Bohan Zhuang<br>
+    [<a href="https://xzxxntxdy.github.io/History-Forcing-Project-Page/">Project</a>] [<a href="https://github.com/xzxxntxdy/History-Forcing">Code</a>]
   </div>
 </div>
 
