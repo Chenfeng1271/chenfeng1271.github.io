@@ -48,6 +48,7 @@ Currently, my research focuses on **embodied learning**, with two main direction
 
 News
 ------
+- **[2026.11]** I joined Canva as a Research Scientist Intern.
 - **[2026.10]** Our new work, [History Forcing](https://ziplab.co/History-Forcing-Project-Page/), is now available!
 - **[2026.08]** I joined Tencent Hunyuan, focusing on long-horizon agent RL.
 - **[2026.07]** 🎉 Our FlashAR is adopted by [Xiaomi-Robotics-U0](https://arxiv.org/pdf/2607.11643), achieving an 83x speedup.
